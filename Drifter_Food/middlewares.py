@@ -102,19 +102,10 @@ class DrifterFoodDownloaderMiddleware:
 class CustomProxyMiddleware(object):
 
     def process_request(self, request, spider):
-        proxy_pool = ["209.205.212.34:222",
-                      "209.205.212.34:1200",
-                      "209.205.212.34:1201",
-                      "209.205.212.34:1202",
-                      "209.205.212.34:1203",
-                      "209.205.212.34:1204",
-                      "209.205.212.34:1205",
-                      "209.205.212.34:1206",
-                      "209.205.212.34:1207",
-                      "209.205.212.34:1208"]
+        proxy_pool = ["prx"]
 
         request.meta['proxy'] = random.choice(proxy_pool)
-        request.headers['Proxy-Authorization'] = basic_auth_header('mikedrifter', 'b29358-c1963e-f0bd5e-d7db63-d0e632')
+        request.headers['Proxy-Authorization'] = basic_auth_header("cred","cred")
 
 
 class RandomUserAgentMiddleware(UserAgentMiddleware):
