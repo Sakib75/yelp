@@ -1,0 +1,682 @@
+{
+  "config": [
+    {
+      "id": "_",
+      "name": "yelp",
+      "code": "yelp",
+      "attributes": {
+        "baseurl": "https://yelp.com/",
+        "source": "yelp",
+        "type": "website",
+        "ratingscale": null
+      },
+      "target_locations": {
+        "countries": [
+          "PT","ES"
+        ],
+        "regions": {},
+        "districts": {},
+        "cities": {},
+        "postcodes": {}
+      },
+      "headers": {
+        
+      },
+      "scraping_rules": {
+        "allow": null,
+        "deny": null,
+        "download_delay": null
+      },
+      "xpaths": [
+        {
+          "ID": null,
+          "url": null,
+          "g_restaurantID": null,
+          "g_addressID": null,
+          "competitor": "yelp",
+          "source": "sourcing_yelp",
+          "restaurant_name": "//h1[@class='css-11q1g5y']/text()",
+          "country": null,
+          "country_code": null,
+          "city": null,
+          "city_code": null,
+          "address_street": "//div[2]/div/div/p[@class=' css-chtywg']/text()",
+          "address_lat": null,
+          "address_lon": null,
+          "postal_code": null,
+          "contact_phone": "//div[1]/div/div/p[@class=' css-1h1j0y3']/text()",
+          "contact_email": null,
+          "contact_website": null,
+          "average_basket_value": null,
+          "tags": null,
+          "g_reviews": null,
+          "g_grade": null,
+          "source_grade": null,
+          "source_reviews": null,
+          "competitor_score":null,
+          "opening_hours": "//table[contains(@class,'hours-table__373c0__1S9Q_')]",
+          "social_facebook": null,
+          "social_instagram": null,
+          "categories":"//span[@class=' css-bq71j2']/a[@class='css-166la90']/text()",
+          "promotion": null,
+          "promotion_type": null,
+          "scraping_time": null,
+          "scraping_date": null
+          
+
+        }
+      ]
+    },
+    {
+      "id": "_",
+      "name": "yamiyami",
+      "code": "yamiyami",
+      "attributes": {
+        "baseurl": "https://yamiyami.md/",
+        "source": "yamiyami",
+        "type": "website",
+        "ratingscale": null
+      },
+      "target_locations": {
+        "countries": [
+          "MD"
+        ],
+        "regions": {},
+        "districts": {},
+        "cities": {},
+        "postcodes": {}
+      },
+      "headers": {
+        
+      },
+      "scraping_rules": {
+        "allow": null,
+        "deny": null,
+        "download_delay": null
+      },
+      "xpaths": [
+        {
+          "ID": null,
+          "url": null,
+          "g_restaurantID": null,
+          "g_addressID": null,
+          "competitor": "Yamiyami",
+          "source": "sourcing_yamiyami",
+          "restaurant_name": "//div[@class='title white']/h1/text()",
+          "country": "Moldova",
+          "country_code": "MD",
+          "city": "Chisinau",
+          "city_code": null,
+          "address_street": "//i[@class='ni ni-pin-3']/following::a[1]/text()",
+          "address_lat": null,
+          "address_lon": null,
+          "postal_code": null,
+          "contact_phone": "//i[@class='ni ni-mobile-button']/following::a[1]/text()",
+          "contact_email": null,
+          "contact_website": null,
+          "average_basket_value": null,
+          "tags": null,
+          "g_reviews": null,
+          "g_grade": null,
+          "source_grade": null,
+          "source_reviews": null,
+          "competitor_score":null,
+          "opening_hours": "//i[@class='ni ni-watch-time']/parent::p/span/text()",
+          "social_facebook": null,
+          "social_instagram": null,
+          "categories":"//li[@class='nav-item nav-item-category']/a/text()",
+          "promotion": null,
+          "promotion_type": null,
+          "scraping_time": null,
+          "scraping_date": null
+          
+
+        }
+      ]
+    },
+    {
+      "id": "_",
+      "name": "Eat",
+      "code": "EAT",
+      "attributes": {
+        "baseurl": "https://www.eat.ma/",
+        "source": "sourcing_eat",
+        "type": "website",
+        "ratingscale": null
+      },
+      "target_locations": {
+        "countries": [
+          "MA"
+        ],
+        "regions": {},
+        "districts": {},
+        "cities": {},
+        "postcodes": {}
+      },
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cache-Control": "no-cache",
+        "Connection": "keep-alive",
+        "Host": "l.sharethis.com",
+        "Origin": "https://www.eat.ma",
+        "Pragma": "no-cache",
+        "Referer": "https://www.eat.ma/"
+      },
+      "scraping_rules": {
+        "allow": null,
+        "deny": null,
+        "download_delay": null
+      },
+      "xpaths": [
+        {
+          "ID": null,
+          "url": null,
+          "g_restaurantID": null,
+          "g_addressID": null,
+          "competitor": "Eat",
+          "source": "sourcing_eat",
+          "restaurant_name": "/html/body/div[2]/div/div/section[2]/div/div/div/div/div/section[1]/div/div/div[2]/div/div/div[1]/div/h1",
+          "country": "Morocco",
+          "country_code": "MA",
+          "city": null,
+          "city_code": null,
+          "address_street": "/html/body/div[2]/div/div/section[2]/div/div/div/div/div/section[1]/div/div/div[2]/div/div/div[5]/div/div",
+          "address_lat": null,
+          "address_lon": null,
+          "postal_code": null,
+          "contact_phone": "/html/body/div[2]/div/div/section[2]/div/div/div/div/div/section[1]/div/div/div[2]/div/div/div[7]/div/ul/li/a/span[2]",
+          "contact_email": null,
+          "contact_website": null,
+          "average_basket_value": null,
+          "tags": "/html/body/div[2]/div/div/section[2]/div/div/div/div/div/section[1]/div/div/div[2]/div/div/div[2]/div/div",
+          "g_reviews": null,
+          "g_grade": null,
+          "source_grade": null,
+          "source_reviews": null,
+          "opening_hours": null,
+          "social_facebook": null,
+          "social_instagram": null,
+          "scraping_time": null,
+          "scraping_date": null
+        }
+      ]
+    },
+    {
+      "id": "_",
+      "name": "UberEats",
+      "code": "UBEREATS",
+      "attributes": {
+        "baseurl": "https://www.ubereats.com/",
+        "source": "sourcing_ubereats",
+        "type": "website",
+        "ratingscale": null
+      },
+      "target_locations": {
+        "countries": [
+          "es", "pt", "it", "pl", "ke"
+        ],
+        "regions": {},
+        "districts": {},
+        "cities": {},
+        "postcodes": {}
+      },
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cache-Control": "no-cache",
+        "Connection": "keep-alive",
+        "Pragma": "no-cache"
+      },
+      "scraping_rules": {
+        "allow": null,
+        "deny": null,
+        "download_delay": null
+      },
+      "xpaths": [
+        {
+          "ID": null,
+          "url": null,
+          "g_restaurantID": null,
+          "g_addressID": null,
+          "competitor": "UberEats",
+          "source": "sourcing_ubereats",
+          "restaurant_name": "//h1/text()",
+          "country": null,
+          "country_code": null,
+          "city": null,
+          "city_code": null,
+          "address_street": "//*[@id=\"main-content\"]/div[3]/div[1]/div[1]/p/text()",
+          "address_lat": null,
+          "address_lon": null,
+          "postal_code": null,
+          "contact_phone": null,
+          "contact_email": null,
+          "contact_website": null,
+          "average_basket_value": "//*[@id=\"main-content\"]/div[3]/div[1]/div[1]/div/text()",
+          "tags": "//*[@id=\"main-content\"]/div[3]/div[1]/div[1]/div/a/text()",
+          "g_reviews": null,
+          "g_grade": null,
+          "source_grade": "//*[@id=\"main-content\"]/div[2]/div/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/text()",
+          "source_reviews": "//*[@id=\"main-content\"]/div[2]/div/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[3]/text()[2]",
+          "opening_hours": "//*[@id=\"wrapper\"]/div[5]/div/div/div[2]/div[3]/div[3]/table/text()",
+          "social_facebook": null,
+          "social_instagram": null,
+          "scraping_time": null,
+          "scraping_date": null
+        }
+      ]
+    },
+    {
+      "id": "_",
+      "name": "BringEat",
+      "code": "BE",
+      "attributes": {
+        "baseurl": "https://www.bringeat.pt/",
+        "source": "sourcing_bringeat",
+        "type": "website",
+        "ratingscale": 5
+      },
+      "target_locations": {
+        "countries": [
+          "PT"
+        ],
+        "regions": {},
+        "districts": {},
+        "cities": {},
+        "postcodes": {}
+      },
+      "headers": {
+        "Accept": null,
+        "Accept-Encoding": null,
+        "Accept-Language": null,
+        "Cache-Control": null,
+        "Connection": null,
+        "Host": null,
+        "Origin": null,
+        "Pragma": null,
+        "Referer": null
+      },
+      "scraping_rules": {
+        "allow": null,
+        "deny": null,
+        "download_delay": null
+      },
+      "xpaths": [
+        {
+          "ID": null,
+          "url": null,
+          "g_restaurantID": null,
+          "g_addressID": null,
+          "competitor": "BringEat",
+          "source": "sourcing_bringeat",
+          "restaurant_name": "//div[@class='restaurantName']",
+          "country": "Portugal",
+          "country_code": "PT",
+          "city": null,
+          "city_code": null,
+          "address_street": null,
+          "address_lat": null,
+          "address_lon": null,
+          "postal_code": null,
+          "contact_phone": null,
+          "contact_email": null,
+          "contact_website": null,
+          "average_basket_value": null,
+          "tags": "//div[@class='foodCategories']",
+          "g_reviews": null,
+          "g_grade": null,
+          "source_grade": "//span[@class='rankStars']",
+          "source_reviews": "//span[@class='rankCount']",
+          "competitor_score": null,
+          "opening_hours": null,
+          "social_facebook": null,
+          "social_instagram": null,
+          "scraping_time": null,
+          "scraping_date": null
+        }
+      ]
+    },
+    {
+      "id": "_",
+      "name": "GlovoApp",
+      "code": "GA",
+      "attributes": {
+        "baseurl": "https://glovoapp.com/",
+        "source": "sourcing_glovoapp",
+        "type": "website",
+        "ratingscale": null
+      },
+      "target_locations": {
+        "countries": [
+        ],
+        "regions": {},
+        "districts": {},
+        "cities": {},
+        "postcodes": {}
+      },
+      "headers": {
+        "Accept": null,
+        "Accept-Encoding": null,
+        "Accept-Language": null,
+        "Cache-Control": null,
+        "Connection": null,
+        "Host": null,
+        "Origin": null,
+        "Pragma": null,
+        "Referer": null
+      },
+      "scraping_rules": {
+        "allow": null,
+        "deny": null,
+        "download_delay": null
+      },
+      "xpaths": [
+        {
+          "ID": null,
+          "url": null,
+          "g_restaurantID": null,
+          "g_addressID": null,
+          "competitor": "GlovoApp",
+          "source": "sourcing_glovoapp",
+          "restaurant_name": "//h1",
+          "country": "Portugal",
+          "country_code": "PT",
+          "city": null,
+          "city_code": null,
+          "address_street": null,
+          "address_lat": null,
+          "address_lon": null,
+          "postal_code": null,
+          "contact_phone": null,
+          "contact_email": null,
+          "contact_website": null,
+          "average_basket_value": null,
+          "tags": null,
+          "g_reviews": null,
+          "g_grade": null,
+          "source_grade": null,
+          "source_reviews": null,
+          "competitor_score": null,
+          "opening_hours": null,
+          "social_facebook": null,
+          "social_instagram": null,
+          "scraping_time": null,
+          "scraping_date": null
+        }
+      ]
+    },
+    {
+      "id": "_",
+      "name": "MenuAm",
+      "code": "MUAM",
+      "attributes": {
+          "baseurl": "https://www.menu.am/",
+          "source": "sourcing_menu_am",
+          "type": "website",
+          "ratingscale": null
+      },
+      "target_locations": {
+              "countries": ["AM"],
+              "regions":{},
+              "districts": {},
+              "cities": {},
+              "postcodes": {}
+      },
+      "headers": {
+              "Accept": null,
+              "Accept-Encoding": null,
+              "Accept-Language": null,
+              "Cache-Control": null,
+              "Connection": null,
+              "Host": null,
+              "Origin": null,
+              "Pragma": null,
+              "Referer": null
+      },
+      "scraping_rules": {
+          "allow": null,
+          "deny": null,
+          "download_delay": null
+      },
+      "xpaths": [
+          {
+              "ID": null,
+              "url": null,
+              "g_restaurantID": null,
+              "g_addressID": null,
+              "competitor": "Menu AM",
+              "source": "sourcing_menu_am",
+              "restaurant_name": "//*[@id='mainCntent']/div/div[3]/a[3]",
+              "country": "Armenia",
+              "country_code": "AM",
+              "city": "Yerevan",
+              "city_code": "YER",
+              "address_street": null,
+              "address_lat": null,
+              "address_lon": null,
+              "postal_code": null,
+              "contact_phone": null,
+              "contact_email": null,
+              "contact_website": null,
+              "average_basket_value": null,
+              "tags": "//div[@class='kitchen']",
+              "g_reviews": null,
+              "g_grade": null,
+              "source_grade": null,
+              "source_reviews": "//*[@id='ui-id-2']",
+              "opening_hours": "//div[@class='working-hours']",
+              "social_facebook": null,
+              "social_instagram": null,
+              "scraping_time": null,
+              "scraping_date": null
+          }]
+  },
+  {
+      "id": "_",
+      "name": "MenuBy",
+      "code": "MUBY",
+      "attributes": {
+          "baseurl": "https://www.menu.by/",
+          "source": "sourcing_menu_by",
+          "type": "website",
+          "ratingscale": null
+      },
+      "target_locations": {
+              "countries": ["BY"],
+              "regions":{},
+              "districts": {},
+              "cities": {},
+              "postcodes": {}
+      },
+      "headers": {
+              "Accept": null,
+              "Accept-Encoding": null,
+              "Accept-Language": null,
+              "Cache-Control": null,
+              "Connection": null,
+              "Host": null,
+              "Origin": null,
+              "Pragma": null,
+              "Referer": null
+      },
+      "scraping_rules": {
+          "allow": null,
+          "deny": null,
+          "download_delay": null
+      },
+      "xpaths": [
+          {
+              "ID": null,
+              "url": null,
+              "g_restaurantID": null,
+              "g_addressID": null,
+              "competitor": "Menu BY",
+              "source": "sourcing_menu_by",
+              "restaurant_name": "//*[@id='mainCntent']/div/div[3]/a[3]",
+              "country": "Belarus",
+              "country_code": "BY",
+              "city": "Minsk",
+              "city_code": "MNS",
+              "address_street": null,
+              "address_lat": null,
+              "address_lon": null,
+              "postal_code": null,
+              "contact_phone": null,
+              "contact_email": null,
+              "contact_website": null,
+              "average_basket_value": null,
+              "tags": "//div[@class='kitchen']",
+              "g_reviews": null,
+              "g_grade": null,
+              "source_grade": null,
+              "source_reviews": "//*[@id='ui-id-2']",
+              "opening_hours": "//div[@class='working-hours']",
+              "social_facebook": null,
+              "social_instagram": null,
+              "scraping_time": null,
+              "scraping_date": null
+          }]
+  },
+    {
+      "id": "_",
+      "name": "Kupohajna",
+      "code": "KPHJ",
+      "attributes": {
+          "baseurl": "https://www.kupohajna.com/",
+          "source": "sourcing_kupohajna",
+          "type": "website",
+          "ratingscale": 5
+      },
+      "target_locations": {
+              "countries": ["BY"],
+              "regions":{},
+              "districts": {},
+              "cities": {},
+              "postcodes": {}
+      },
+      "headers": {
+              "Accept": null,
+              "Accept-Encoding": null,
+              "Accept-Language": null,
+              "Cache-Control": null,
+              "Connection": null,
+              "Host": null,
+              "Origin": null,
+              "Pragma": null,
+              "Referer": null
+      },
+      "scraping_rules": {
+          "allow": null,
+          "deny": null,
+          "download_delay": null
+      },
+      "xpaths": [
+          {
+              "ID": null,
+              "url": null,
+              "g_restaurantID": null,
+              "g_addressID": null,
+              "competitor": "Kupohajna",
+              "source": "sourcing_kupohajna",
+              "restaurant_name": ".//div[@class='col-md-9']/h2/a",
+              "country": "Kosovo",
+              "country_code": "XK",
+              "city": "Pristina",
+              "city_code": "PRS",
+              "address_street": ".//p[@class='merchant-address concat-text']",
+              "address_lat": null,
+              "address_lon": null,
+              "postal_code": null,
+              "contact_phone": null,
+              "contact_email": null,
+              "contact_website": null,
+              "average_basket_value": null,
+              "tags": ".//p[@class='cuisine bold']",
+              "g_reviews": null,
+              "g_grade": null,
+              "source_grade": ".//div[@class='rating-stars']",
+              "source_reviews": ".//div[@class='col-md-9']/div[1]/div[2]/p",
+              "opening_hours": null,
+              "social_facebook": null,
+              "social_instagram": null,
+              "scraping_time": null,
+              "scraping_date": null
+          }]
+  },
+    {
+      "id": "_",
+      "name": "Misteram",
+      "code": "MSTR",
+      "attributes": {
+        "baseurl": "https://misteram.com.ua",
+        "source": "sourcing_misteram",
+        "type": "website",
+        "ratingscale": null
+      },
+      "target_locations": {
+        "countries": [
+          "UA"
+        ],
+        "regions": {},
+        "districts": {},
+        "cities": {"Vinnytsia": "VNT", "Zhytomyr": "ZHY", "Frankivsk": "IVF", "Kremenchug": "KRE", "Kropyvnytsky": "KRO", "Lutsk": "LUT", "Poltava": "POL", "Rivne": "RIV", "Sumy": "SUM", "Kherson": "KHE", "Khmelnytsky": "KHM", "Cherkassy": "CHK", "Chernivtsi": "CHN", "Chernigov": "CHE"},
+        "postcodes": {}
+      },
+      "headers": {
+        "Accept": null,
+        "Accept-Encoding": null,
+        "Accept-Language": null,
+        "Cache-Control": null,
+        "Connection": null,
+        "Host": null,
+        "Origin": null,
+        "Pragma": null,
+        "Referer": null
+      },
+      "scraping_rules": {
+        "allow": null,
+        "deny": null,
+        "download_delay": null
+      },
+      "xpaths": [
+        {
+          "ID": null,
+          "url": null,
+          "g_restaurantID": null,
+          "g_addressID": null,
+          "competitor": "Misteram",
+          "source": "sourcing_misteram",
+          "restaurant_name": "/html/body/div/header/div[2]/div[1]/div[4]/p/text()",
+          "country": "Ukraine",
+          "country_code": "UA",
+          "city": null,
+          "city_code": null,
+          "address_street": "//span[@class='info-title']",
+          "address_lat": null,
+          "address_lon": null,
+          "postal_code": null,
+          "contact_phone": "/html/body/div/header/div[2]/div[2]/p/a/text()",
+          "contact_email": null,
+          "contact_website": null,
+          "average_basket_value": null,
+          "tags": null,
+          "g_reviews": null,
+          "g_grade": null,
+          "source_grade": "/html/body/div[1]/section/div[1]/div[1]/div[1]/ul/span/text()",
+          "source_reviews": null,
+          "opening_hours": "/html/body/div/section/div[1]/div[2]/div[1]/p/text()",
+          "social_facebook": null,
+          "social_instagram": null,
+          "categories": "//span[@class='category-link-name']",
+          "promotion": null,
+          "promotion_type": "//span[@class='ui border-underline dashed']",
+          "scraping_time": null,
+          "scraping_date": null
+        }
+      ]
+    }
+  ]
+}

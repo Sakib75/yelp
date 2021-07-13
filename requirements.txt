@@ -1,0 +1,7 @@
+itemloaders==1.0.4
+Scrapy==2.4.1
+scrapy-random-useragent==0.2
+selenium==3.141.0
+
+requests~=2.25.1
+w3lib~=1.22.0

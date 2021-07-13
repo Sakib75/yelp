@@ -1,0 +1,1008 @@
+1617909841587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofilexJQC9z"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 23116, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+[Parent 23116, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 724))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1617909883185	Marionette	INFO	Listening on port 52240
+1617909883652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en?status=all&sort=default, line 1016: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617909905500	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-fa663bf6ab59c356d5e98aabbea77fbd.js, line 6905: unreachable code after return statement
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617909915787	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.9/index.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.9/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.0/index.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.0/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofilePctuTu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617910175295	Marionette	INFO	Listening on port 52443
+1617910175690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.menu.by/resources/default/js/combine/home/combine.js?v=10.04.20201617910177, line 294: unreachable code after return statement
+JavaScript warning: https://www.menu.by/en?status=all&sort=default, line 1027: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617910197884	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-fa663bf6ab59c356d5e98aabbea77fbd.js, line 6905: unreachable code after return statement
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileKULZz4"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617910430059	Marionette	INFO	Listening on port 52587
+1617910430131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.menu.am/en/restaurant/pizza-town.html, line 1183: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-fa663bf6ab59c356d5e98aabbea77fbd.js, line 6905: unreachable code after return statement
+1617910454232	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/utopia-kitchen.html, line 1191: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-fa663bf6ab59c356d5e98aabbea77fbd.js, line 6905: unreachable code after return statement
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/12-ktor-pizza.html, line 1191: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-fa663bf6ab59c356d5e98aabbea77fbd.js, line 6905: unreachable code after return statement
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/genacvale-pandok-paronyan.html, line 1191: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-fa663bf6ab59c356d5e98aabbea77fbd.js, line 6905: unreachable code after return statement
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/papa-pizza.html, line 1191: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/muchacho.html, line 1168: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/kfc-mashtots-avenue.html, line 1191: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/hangout.html, line 1192: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/green-day.html, line 1110: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/zanazan.html, line 1191: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/pizza-pino.html, line 1191: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/n-sweet-studio.html, line 1091: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/pandora-gift-card.html, line 1091: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/siamoods-gift-card.html, line 1091: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofile1SOFwV"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617910752781	Marionette	INFO	Listening on port 52819
+1617910753085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/papa-pizza.html, line 1264: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617910775386	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1617910775647	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-fa663bf6ab59c356d5e98aabbea77fbd.js, line 6905: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.9/index.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.9/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.9/index.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.9/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/genacvale-pandok-paronyan.html, line 1191: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-fa663bf6ab59c356d5e98aabbea77fbd.js, line 6905: unreachable code after return statement
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/pizza-pino.html, line 1191: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-fa663bf6ab59c356d5e98aabbea77fbd.js, line 6905: unreachable code after return statement
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/pizza-town.html, line 1110: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-fa663bf6ab59c356d5e98aabbea77fbd.js, line 6905: unreachable code after return statement
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/utopia-kitchen.html, line 1191: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/muchacho.html, line 1168: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/hangout.html, line 1192: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/12-ktor-pizza.html, line 1191: unreachable code after return statement
+JavaScript warning: https://www.menu.am/resources/default/js/addresses.js?v=2407202022222, line 1599: unreachable code after return statement
+JavaScript warning: https://www.menu.am/en/restaurant/zanazan.html, line 1191: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/kfc-mashtots-avenue.html, line 1191: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/green-day.html, line 1110: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/n-sweet-studio.html, line 1091: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/pandora-gift-card.html, line 1091: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/siamoods-gift-card.html, line 1091: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/facefood.html, line 1191: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/mon-amie.html, line 1147: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/linz-express.html, line 1091: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/pasion-flower.html, line 1199: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/panatsea.html, line 1167: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/armhookah.html, line 1131: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/florans-flower.html, line 1090: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/sushi-wok.html, line 1191: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/biella.html, line 1091: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/tonratun-voske-aqaghagh.html, line 1191: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/time-gift-card.html, line 1110: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/partytto.html, line 1191: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/swarovski-gift-card.html, line 1091: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/maga-flower-boutique.html, line 1190: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/desigual-dalma-garden-mall.html, line 1091: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/juwena-flowers.html, line 1129: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://www.menu.am/en/restaurant/taq-kchuch-food-court.html, line 1110: unreachable code after return statement
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+JavaScript warning: https://api-maps.yandex.ru/2.1.6/?lang=en_US&apikey=faa3295f-5e98-4445-af78-0ac8e9e4cfe4, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1618483485412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofiletxECIO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[Parent 24288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618483542518	Marionette	INFO	Listening on port 55860
+1618483543386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/browse?lang=en, line 29: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618484540153	Marionette	INFO	Stopped listening on port 55860
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618484689808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofilemUr8W1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618484698325	Marionette	INFO	Listening on port 56114
+1618484698351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/browse?lang=en, line 29: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618485830619	Marionette	INFO	Stopped listening on port 56114
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618485186297	Marionette	INFO	Listening on port 56458
+1618485186530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/browse?lang=en, line 29: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618485831948	Marionette	INFO	Stopped listening on port 56458
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618485859359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileYUwDPx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618485869287	Marionette	INFO	Listening on port 56938
+1618485869543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/browse?lang=en, line 29: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618485966953	Marionette	INFO	Stopped listening on port 56938
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618485999955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileRJ5Df0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618486006509	Marionette	INFO	Listening on port 57089
+1618486006945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/browse?lang=en, line 29: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 21016, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618486102472	Marionette	INFO	Stopped listening on port 57089
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618486154423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileMCLhle"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618486161111	Marionette	INFO	Listening on port 57240
+1618486161410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/browse?lang=en, line 29: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618486609508	Marionette	INFO	Stopped listening on port 57240
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileB8dT91"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618486453184	Marionette	INFO	Listening on port 57453
+1618486453529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/browse?lang=en, line 29: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618486608679	Marionette	INFO	Stopped listening on port 57453
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofilefwYmqI"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618486611691	Marionette	INFO	Listening on port 57613
+1618486612937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/browse?lang=en, line 29: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618656748723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileI69Tjz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+console.error: "Could not load engine wikipedia@search.mozilla.org: Error: Attempt to use XPI database when it is not initialized"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 674: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+[Parent 10052, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618657316697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileNDGp0E"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 10300, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618657331572	Marionette	INFO	Listening on port 50480
+1618657334729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/menu-himalayan-gurkha-indian-food-in-pristine-porosit-online?lang=en, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.kupohajna.com/menu-porosit-online-order-pizza-crust-prishtina?lang=en, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.kupohajna.com/menu-burger-shop-order-porosit-online-pristina?lang=en, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.kupohajna.com/menu-shaban-grill-house-porosit-qebap-online-traditional-kosova?lang=en, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 10300, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618657488880	Marionette	INFO	Stopped listening on port 50480
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618658171622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofilelDmjF3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618658178178	Marionette	INFO	Listening on port 50815
+1618658178799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/menu-porosit-furra-tanore-bakery-online-prishtina-kosova, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.kupohajna.com/menu-home-restaurant-porosit-online-order-pristina, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.kupohajna.com/menu-himalayan-gurkha-indian-food-in-pristine-porosit-online, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.kupohajna.com/menu-fast-food-oreksi-porosit-qebap-online-prishtine, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.kupohajna.com/menu-porosit-online-order-pizza-crust-prishtina, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-porosit-chickn-pub-chicken-pub-pule-online-prishtina, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-shaban-grill-house-porosit-qebap-online-traditional-kosova, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-burger-shop-order-porosit-online-pristina, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-te-fahria-order-porosit-online-pristina, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-rockuzine-bar-porosit-online-order-pristina, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-ma-belle-porosit-ushqim-embelsirat-dessert-coffee-online-order-kosove, line 32: ReferenceError: ga is not defined
+1618658393590	Marionette	INFO	Stopped listening on port 50815
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618658857584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofilet3cd2T"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618658864622	Marionette	INFO	Listening on port 51075
+1618658865052	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/menu-porosit-online-order-pizza-crust-prishtina, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.kupohajna.com/menu-home-restaurant-porosit-online-order-pristina, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.kupohajna.com/menu-burger-shop-order-porosit-online-pristina, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.kupohajna.com/menu-porosit-furra-tanore-bakery-online-prishtina-kosova, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.kupohajna.com/menu-porosit-chickn-pub-chicken-pub-pule-online-prishtina, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-shaban-grill-house-porosit-qebap-online-traditional-kosova, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-fast-food-oreksi-porosit-qebap-online-prishtine, line 32: ReferenceError: ga is not defined
+console.error: "Task cancelled"
+JavaScript error: https://www.kupohajna.com/menu-te-fahria-order-porosit-online-pristina, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-himalayan-gurkha-indian-food-in-pristine-porosit-online, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-friends-caffee-porosit-online-order-kosova, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-rockuzine-bar-porosit-online-order-pristina, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-grill-sarajeva1, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-sarajeva-steak-house-porosit-ushqim-online-food-delivery-order-prishtine, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-te-pini-restaurant-porosit-ushqim-online-rezervimi, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-che-bar-porosit-ushqim-online-kosova-prishtina, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-babaghanoush-vegetarian-ushqim-healthy-food-porosit-online-prishtine, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-ma-belle-porosit-ushqim-embelsirat-dessert-coffee-online-order-kosove, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-porosit-route-66-burger-sandwich-online-order-prishtine, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-sach-pizza-porosit-pica-online-order-prishtina-kosova, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-restaurant-mexican-downtown-order-food-online-ushqim-porosi-prishtina, line 32: ReferenceError: ga is not defined
+JavaScript error: https://www.kupohajna.com/menu-momo-coffee-porosit-ushqim-online-order-prishtine-kosova, line 32: ReferenceError: ga is not defined
+[Parent 10340, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618659180795	Marionette	INFO	Stopped listening on port 51075
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618660396101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileqroCt0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618660404933	Marionette	INFO	Listening on port 51604
+1618660405165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/menu-porosit-online-order-pizza-crust-prishtina, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.kupohajna.com/menu-home-restaurant-porosit-online-order-pristina, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.kupohajna.com/menu-burger-shop-order-porosit-online-pristina, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 10256, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618660458292	Marionette	INFO	Stopped listening on port 51604
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618660698803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileHToGIC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618660704511	Marionette	INFO	Listening on port 51704
+1618660704618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/menu-porosit-online-order-pizza-crust-prishtina, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.kupohajna.com/menu-home-restaurant-porosit-online-order-pristina, line 32: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 10400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618660732711	Marionette	INFO	Stopped listening on port 51704
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618661475677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofilefy2pQ0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618661481388	Marionette	INFO	Listening on port 51854
+1618661481491	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618661684699	Marionette	INFO	Stopped listening on port 51854
+1618666311237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofilesBtIcw"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618666315955	Marionette	INFO	Listening on port 55906
+1618666316046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/browse?lang=en, line 29: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618666970966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileKS7wXJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618666975358	Marionette	INFO	Listening on port 56079
+1618666975804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/browse?lang=en, line 29: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618667487905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileVz4eSC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618667493716	Marionette	INFO	Listening on port 56419
+1618667493757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/browse?lang=en, line 29: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618671121897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Praneeth\\AppData\\Local\\Temp\\rust_mozprofilef4gk6b"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618671150330	Marionette	INFO	Listening on port 60372
+1618671151539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kupohajna.com/browse?lang=en, line 29: ReferenceError: ga is not defined
+JavaScript warning: https://www.kupohajna.com/assets/vendor/compress/combine-vendor.js?v=1.0, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: services.settings: 
+  security-state/intermediates Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1620562721045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofilewOQRUZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 19164, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620562779147	Marionette	INFO	Listening on port 58980
+1620562779335	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 19164, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620563614553	Marionette	INFO	Stopped listening on port 58980
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620565534550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileAOmgUq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620565545384	Marionette	INFO	Listening on port 60480
+1620565545828	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620566720978	Marionette	INFO	Stopped listening on port 60480
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620565565850	Marionette	INFO	Listening on port 60540
+1620565566346	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620566720266	Marionette	INFO	Stopped listening on port 60540
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620582653356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileAj9nqX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620582663467	Marionette	INFO	Listening on port 56753
+1620582663528	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620583201683	Marionette	INFO	Stopped listening on port 56753
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620582681106	Marionette	INFO	Listening on port 56809
+1620582681639	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620583201125	Marionette	INFO	Stopped listening on port 56809
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620583251984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofilezepek2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620583261217	Marionette	INFO	Listening on port 57149
+1620583261814	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 4544, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620584301472	Marionette	INFO	Stopped listening on port 57149
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ exists, new profile?" (new Error("", "(unknown module)"))
+1620583280037	Marionette	INFO	Listening on port 57203
+1620583280128	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620584300535	Marionette	INFO	Stopped listening on port 57203
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620583475691	Marionette	INFO	Listening on port 57355
+1620583475882	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620584294149	Marionette	INFO	Stopped listening on port 57355
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620583496825	Marionette	INFO	Listening on port 57409
+1620583497707	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620584294166	Marionette	INFO	Stopped listening on port 57409
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620583899298	Marionette	INFO	Listening on port 57701
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620583899952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620584299461	Marionette	INFO	Stopped listening on port 57701
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileAnB7HS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620583922235	Marionette	INFO	Listening on port 57758
+1620583922638	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7324, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620584300592	Marionette	INFO	Stopped listening on port 57758
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620584357779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofilexJ5Zav"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620584369932	Marionette	INFO	Listening on port 57871
+1620584370086	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 23128, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620586114226	Marionette	INFO	Stopped listening on port 57871
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+exists, new profile?" (new Error("", "(unknown module)"))
+1620584385943	Marionette	INFO	Listening on port 57920
+1620584386776	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 21608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620586112509	Marionette	INFO	Stopped listening on port 57920
+cal\\Temp\\rust_mozprofileWebTAB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620585024511	Marionette	INFO	Listening on port 58216
+1620585024618	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620586112310	Marionette	INFO	Stopped listening on port 58216
+ile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileu0Q1CK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620585038548	Marionette	INFO	Listening on port 58263
+1620585039595	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620586113349	Marionette	INFO	Stopped listening on port 58263
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileyUHn9O"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:367:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:351:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1620586122584	Marionette	INFO	Listening on port 58531
+1620586123270	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620587871231	Marionette	INFO	Stopped listening on port 58531
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+s session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 14680, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 14680, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 14680, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620587856476	Marionette	INFO	Stopped listening on port 58586
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620588640942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofileGaJD7S"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620588653636	Marionette	INFO	Listening on port 59874
+1620588653813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1620588745119	Marionette	INFO	Stopped listening on port 59874
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620588673809	Marionette	INFO	Listening on port 59927
+1620588674328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620588746244	Marionette	INFO	Stopped listening on port 59927
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620588817521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\rust_mozprofilegl4TeT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620588825394	Marionette	INFO	Listening on port 60069
+1620588825531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+[Parent 22496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620589303674	Marionette	INFO	Stopped listening on port 60069
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+8839814	Marionette	INFO	Listening on port 60116
+1620588839951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620589303302	Marionette	INFO	Stopped listening on port 60116
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620653708844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Praneeth\\AppData\\Local\\Temp\\rust_mozprofileHHDMIW"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1620653743277	Marionette	INFO	Listening on port 62448
+1620653743776	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+x\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Praneeth\\AppData\\Local\\Temp\\rust_mozprofile2ZKBwo"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1620653753697	Marionette	INFO	Listening on port 62525
+1620653753993	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620915966330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Praneeth\\AppData\\Local\\Temp\\rust_mozprofileJm00p3"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620915982917	Marionette	INFO	Listening on port 53684
+1620915983518	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ppData\\Local\\Temp\\rust_mozprofile1HBbVX"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620915991265	Marionette	INFO	Listening on port 53737
+1620915991558	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+reground" "-no-remote" "-profile" "C:\\Users\\Praneeth\\AppData\\Local\\Temp\\rust_mozprofiledVfrfX"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620916886241	Marionette	INFO	Listening on port 54031
+1620916886368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=tJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+cript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: Error: INVALID_STATE_ERR
+1620924452568	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://static.chatra.io/jscss/a44ce9c8beae167428166eaef54d30c133320c00.js?meteor_js_resource=true, line 61: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622914305233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Praneeth\\AppData\\Local\\Temp\\rust_mozprofileygXaD4"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 1828, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+[Parent 1828, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 1828, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622914377571	Marionette	INFO	Listening on port 52203
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622914856894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Praneeth\\AppData\\Local\\Temp\\rust_mozprofilei1MVXH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622914863477	Marionette	INFO	Listening on port 65179
+1622914863822	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+x\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Praneeth\\AppData\\Local\\Temp\\rust_mozprofileqe14TY"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622914871524	Marionette	INFO	Listening on port 65224
+1622914871753	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622962437867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Praneeth\\AppData\\Local\\Temp\\rust_mozprofile00MAfy"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622962450764	Marionette	INFO	Listening on port 63238
+1622962450822	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+x\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Praneeth\\AppData\\Local\\Temp\\rust_mozprofileGuKQ0l"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622962462211	Marionette	INFO	Listening on port 63281
+1622962462627	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+x\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Praneeth\\AppData\\Local\\Temp\\rust_mozprofile2GJnjW"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622962714426	Marionette	INFO	Listening on port 56386
+1622962714474	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+x\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Praneeth\\AppData\\Local\\Temp\\rust_mozprofileNHPx5a"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622962726558	Marionette	INFO	Listening on port 56426
+1622962726687	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.

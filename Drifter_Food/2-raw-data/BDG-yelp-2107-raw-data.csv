@@ -1,0 +1,417 @@
+﻿ID,url,g_restaurantID,g_addressID,competitor,source,restaurant_name,country,country_code,city,city_code,address_street,address_lat,address_lon,postal_code,contact_phone,contact_email,contact_website,average_basket_value,tags,g_reviews,g_grade,source_grade,source_reviews,competitor_score,opening_hours,social_facebook,social_instagram,categories,promotion,promotion_type,scraping_time,scraping_date
+,https://www.yelp.com/biz/algarcafe-restaura%C3%A7%C3%A3o-albufeira,,,yelp,sourcing_yelp,Algarcafe - Restauração,,,,,,37.117393,-8.244101,,,,,,,,,,,,,,,"Bars, Hotels, Restaurants",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/haja-sol-albufeira,,,yelp,sourcing_yelp,Haja Sol,,,,,"Urb. Pq. da Corcovada, Lote 45 8200-250 Albufeira Portugal",37.096175,-8.225082,,,,,,,,,,,,,,,"Cards & Stationery, Restaurants",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/el-rancho-albufeira,,,yelp,sourcing_yelp,El Rancho,,,,,"Av. Sá Carneiro, 27-30 Albufeira Portugal",37.089414,-8.227414,,,,,,,,,5,2 ,,,,,Steakhouses,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/casa-bitoque-explora%C3%A7%C3%B5es-hoteleiras-albufeira,,,yelp,sourcing_yelp,"Casa Bitoque, Explorações Hoteleiras",,,,,R. do Poço 8200-000 Albufeira Portugal,37.105812,-8.197945,,,,,,,,,,,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/eug%C3%A9nio-gosma-bernardo-loul%C3%A9,,,yelp,sourcing_yelp,Eugénio Gosma Bernardo,,,,,,37.125969,-8.197151,,,,,,,,,,,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/gomes-na-praia-quarteira,,,yelp,sourcing_yelp,Gomes na Praia,,,,,Praia da Rocha Baixinha 8125-407 Quarteira Portugal,37.075523,-8.129669,,289 313 628,,,,,,,5,1 ,,,,,"Portuguese, Seafood",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/michelangelo-alessandria-albufeira,,,yelp,sourcing_yelp,Michelangelo Alessandria,,,,,"Roja Pé, Bloco B. 3 8200-380 Albufeira Portugal",37.099633,-8.184501,,,,,,,,,,,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-o-chalet-albufeira,,,yelp,sourcing_yelp,Restaurante o Chalet,,,,,,37.110631,-8.281528,,289 514 567,,,,,,,,,,,,,"Bakeries, Bars, Restaurants",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-o-marisco-vilamoura,,,yelp,sourcing_yelp,Restaurante O Marisco,,,,,Marina de Vilamoura 8125-256 Vilamoura Portugal,37.079071,-8.120453,,,,,,,,,,,,"
+Mon7:00 PM - 11:00 PM
+Tue12:00 PM - 11:00 PM
+Wed12:00 PM - 11:00 PM
+Thu12:00 PM - 11:00 PM
+Fri12:00 PM - 11:00 PM
+Sat12:00 PM - 11:00 PM
+Sun12:00 PM - 11:00 PM",,,"Seafood, Steakhouses",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/sandbanks-almancil,,,yelp,sourcing_yelp,Sandbanks,,,,,"Praça de Vale do Lobo, s/n 8135-854 Almancil Portugal",37.048726,-8.065262,,,,,,,,,,,,"
+Mon9:30 AM - 11:00 PM
+Tue9:30 AM - 11:00 PMOpen now
+Wed9:30 AM - 11:00 PM
+Thu9:30 AM - 11:00 PM
+Fri9:30 AM - 11:00 PM
+Sat9:30 AM - 11:00 PM
+Sun9:30 AM - 11:00 PM",,,Seafood,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/tecahotel-sociedade-de-explora%C3%A7%C3%A3o-hoteleira-albufeira,,,yelp,sourcing_yelp,Tecahotel-Sociedade de Exploração Hoteleira,,,,,Empreendimentos Vilanova 8200-000 Albufeira Portugal,37.093405,-8.227843,,,,,,,,,,,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/avanti-ristorante-loul%C3%A9,,,yelp,sourcing_yelp,Avanti Ristorante,,,,,"R. Dr. Frutuoso da Silva, 37 8100-503 Loulé Portugal",37.137765,-8.020779,,,,,,,,,5,1 ,,"
+Mon12:00 PM - 3:00 PM7:00 PM - 10:30 PM
+Tue12:00 PM - 3:00 PM7:00 PM - 10:30 PM
+Wed12:00 PM - 3:00 PM7:00 PM - 10:30 PM
+Thu12:00 PM - 3:00 PM7:00 PM - 10:30 PM
+Fri12:00 PM - 3:00 PM7:00 PM - 10:30 PM
+Sat12:00 PM - 3:00 PM7:00 PM - 10:30 PM
+SunClosed",,,Italian,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/american-dinner-albufeira,,,yelp,sourcing_yelp,American Dinner,,,,,,37.097817,-8.227860,,289 502 906,,,,,,,4,1 ,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/visit_captcha?CID=GK&original_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fd%25C3%25A9cio-jos%25C3%25A9-fortunato-silva-albufeira,,,yelp,sourcing_yelp,,,,,,,,,,,,,,,,,,,,,,,,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/jos%C3%A9-manuel-clemente-arez-albufeira,,,yelp,sourcing_yelp,José Manuel Clemente Arez,,,,,"Vale Navio, Restaurante Favinha Cp653Z 8200-000 Albufeira Portugal",37.103896,-8.199486,,289 501 452,,,,,,,,,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://m.yelp.com/biz/restaurante-2passos-almancil,,,yelp,sourcing_yelp,,,,,,,,,,,,,,,,,,,,,,,,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/pastelaria-erva-doce-albufeira,,,yelp,sourcing_yelp,Pastelaria Erva Doce,,,,,"Urbanização Pinhal do Concelho, s/n Bloco A Loja F 8200-252 Albufeira Portugal",37.096371,-8.175247,,,,,,,,,5,1 ,,"
+Mon7:00 AM - 9:00 PM
+Tue7:00 AM - 9:00 PMOpen now
+Wed7:00 AM - 9:00 PM
+Thu7:00 AM - 9:00 PM
+Fri7:00 AM - 9:00 PM
+Sat7:00 AM - 9:00 PM
+Sun7:00 AM - 9:00 PM",,,Cafes,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/produ%C3%A7%C3%B5es-benzi-ind%C3%BAstria-hoteleira-albufeira,,,yelp,sourcing_yelp,Produções Benzi - Indústria Hoteleira,,,,,,37.094124,-8.228225,,289 515 373,,,,,,,,,,,,,"Travel Services, Restaurants",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-martinque-albufeira,,,yelp,sourcing_yelp,Restaurante Martinque,,,,,"Av. Sá Carneiro, 197 8200-343 Albufeira Portugal",37.099133,-8.228828,,,,,,,,,3,1 ,,"
+Mon5:00 PM - 1:00 AM (Next day)
+Tue5:00 PM - 1:00 AM (Next day)
+Wed5:00 PM - 1:00 AM (Next day)
+Thu5:00 PM - 1:00 AM (Next day)
+Fri5:00 PM - 1:00 AM (Next day)
+Sat5:00 PM - 1:00 AM (Next day)
+Sun5:00 PM - 1:00 AM (Next day)",,,"Barbeque, British, Burgers",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/7-spices-albufeira,,,yelp,sourcing_yelp,7 Spices,,,,,"Av. Sá Carneiro, 130 8200-362 Albufeira Portugal",37.095908,-8.228572,,,,,,,,,5,1 ,,"
+Mon3:00 PM - 11:30 PM
+Tue3:00 PM - 11:30 PM
+Wed3:00 PM - 11:30 PM
+Thu3:00 PM - 11:30 PM
+Fri3:00 PM - 11:30 PM
+Sat3:00 PM - 11:30 PM
+Sun3:00 PM - 11:30 PM",,,Indian,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/o-leme-albufeira,,,yelp,sourcing_yelp,O Leme,,,,,"R. de Fernando Pessoa, 70 8200-372 Albufeira Portugal",37.092874,-8.265169,,289 512 043,,,,,,,,,,,,,Portuguese,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/comandim-companhia-de-administra%C3%A7%C3%A3o-de-im%C3%B3veis-albufeira,,,yelp,sourcing_yelp,Comandim - Companhia de Administração de Imóveis,,,,,,37.106030,-8.204534,,289 591 422,,,,,,,,,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/happy-talk-chinese-arma%C3%A7%C3%A3o-de-p%C3%AAra,,,yelp,sourcing_yelp,Happy Talk Chinese,,,,,Avenida Beira Mar Armação De Pêra Portugal,37.102946,-8.367406,,,,,,,,,5,2 ,,,,,Chinese,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-tasquinha-albufeira,,,yelp,sourcing_yelp,Restaurante Tasquinha,,,,,,37.119231,-8.226416,,289 592 734,,,,,,,,,,,,,"Bars, Restaurants",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-e-marisqueira-jorge-do-peixe-loul%C3%A9,,,yelp,sourcing_yelp,Restaurante & Marisqueira Jorge Do Peixe,,,,,8125-301 Loulé Portugal,37.068000,-8.104150,,289 301 481,,,,,,,4,1 ,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/a-casa-do-chefe-albufeira,,,yelp,sourcing_yelp,A Casa do Chefe,,,,,"R. Pedro Alves Cabral, 24 8200-169 Albufeira Portugal",37.089618,-8.245297,,289 588 804,,,,,,,4,1 ,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/rolha-wine-bar-porches,,,yelp,sourcing_yelp,Rolha Wine Bar,,,,,"R. António Joaquim Cabrita, 9 8400-471 Porches Portugal",37.126205,-8.397571,,960 171 681,,,,,,,5,4 ,,"
+Mon6:00 PM - 1:00 AM (Next day)
+Tue6:00 PM - 1:00 AM (Next day)
+WedClosed
+Thu6:00 PM - 1:00 AM (Next day)
+Fri6:00 PM - 1:00 AM (Next day)
+Sat6:00 PM - 1:00 AM (Next day)
+Sun6:00 PM - 1:00 AM (Next day)",,,"Portuguese, Wine Bars",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/oishi-albufeira,,,yelp,sourcing_yelp,Oishi,,,,,"R. 5 Outubro, 6 8200-043 Albufeira Portugal",37.087457,-8.253006,,926 682 843,,,,,,,3,4 ,,"
+Mon12:00 PM - 3:00 PM6:00 PM - 11:00 PM
+Tue6:00 PM - 11:00 PM
+Wed12:00 PM - 3:00 PM6:00 PM - 11:00 PM
+Thu12:00 PM - 3:00 PM6:00 PM - 11:00 PM
+Fri6:00 PM - 11:00 PM
+Sat12:00 PM - 3:00 PM6:00 PM - 11:00 PM
+Sun12:00 PM - 3:00 PM6:00 PM - 11:00 PM",,,"Japanese, Chinese",,,07/13/2021,15:16:27
+,https://m.yelp.com/biz/tempestade-de-sabores-albufeira,,,yelp,sourcing_yelp,,,,,,,,,,,,,,,,,,,,,,,,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/acqua-olhos-de-%C3%A1gua,,,yelp,sourcing_yelp,ACQUA,,,,,R. 25 de Abril 8200-647 Olhos de Água Portugal,37.090414,-8.190567,,289 516 405,,,,,,,4,2 ,,"
+Mon8:30 AM - 2:00 AM (Next day)
+Tue8:30 AM - 2:00 AM (Next day)Open now
+Wed8:30 AM - 2:00 AM (Next day)
+Thu8:30 AM - 2:00 AM (Next day)
+Fri8:30 AM - 2:00 AM (Next day)
+Sat8:30 AM - 2:00 AM (Next day)
+Sun8:30 AM - 2:00 AM (Next day)",,,"Cafes, Ice Cream & Frozen Yogurt, Cocktail Bars",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/p%C3%A3o-do-povo-quarteira-2,,,yelp,sourcing_yelp,Pão do Povo,,,,,"Av. Infante de Sagres, 131 8125-256 Quarteira Portugal",37.066671,-8.101048,,,,,,,,,4.5,2 ,,,,,"Cafes, Patisserie/Cake Shop",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/santa-eul%C3%A1lia-restaurante-albufeira,,,yelp,sourcing_yelp,Santa Eulália Restaurante,,,,,,37.087812,-8.214548,,,,,,,,,,,,"
+Mon7:00 PM - 11:00 PM
+TueClosed
+WedClosed
+Thu7:00 PM - 11:00 PM
+Fri7:00 PM - 11:00 PM
+Sat7:00 PM - 11:00 PM
+Sun7:00 PM - 11:00 PM",,,"Seafood, Portuguese",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/ant%C3%B3nio-pedro-de-jesus-anselmo-albufeira,,,yelp,sourcing_yelp,António Pedro de Jesus Anselmo,,,,,,37.120485,-8.221386,,289 501 124,,,,,,,,,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/la-creperie-quarteira,,,yelp,sourcing_yelp,La Creperie,,,,,Av. Infante de Sagres 8125-160 Quarteira Portugal,37.068555,-8.106185,,289 324 066,,,,,,,4,2 ,,,,,"Cafes, French",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/clay-oven-albufeira,,,yelp,sourcing_yelp,Clay Oven,,,,,"Edif. Mira Vila, R/C Bloco B 8200-260 Albufeira Portugal",37.094004,-8.230114,,289 586 868,,,,,,,5,1 ,,"
+Mon12:30 PM - 2:30 PM6:00 PM - 11:30 PM
+Tue12:30 PM - 2:30 PM6:00 PM - 11:30 PM
+Wed12:30 PM - 2:30 PM6:00 PM - 11:30 PM
+Thu12:30 PM - 2:30 PM6:00 PM - 11:30 PM
+Fri12:30 PM - 2:30 PM6:00 PM - 11:30 PM
+Sat12:30 PM - 2:30 PM6:00 PM - 11:30 PM
+Sun6:00 PM - 11:30 PM",,,Indian,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/casa-dos-pinheiros-almancil,,,yelp,sourcing_yelp,Casa dos Pinheiros,,,,,Estrada Vale do Lobo 8135-107 Almancil Portugal,37.071300,-8.047739,,,,,,,,,5,1 ,,"
+Mon7:00 PM - 11:00 PM
+Tue7:00 PM - 11:00 PM
+Wed7:00 PM - 11:00 PM
+Thu7:00 PM - 11:00 PM
+Fri7:00 PM - 11:00 PM
+Sat7:00 PM - 11:00 PM
+SunClosed",,,Seafood,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/renos-albufeira-2,,,yelp,sourcing_yelp,Reno's,,,,,Av. Infante dom Henrique Albufeira Portugal,37.087709,-8.236474,,,,,,,,,4,1 ,,,,,"Restaurants, Bars",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/thai-beach-club-loul%C3%A9,,,yelp,sourcing_yelp,Thai Beach Club,,,,,Rocha Baixinha Nascente - Pr. da Falésia 8125-407 Loulé Portugal,37.081863,-8.127480,,289 322 471,,,,,,,4,4 ,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-%C3%A2ncora-douro-quarteira,,,yelp,sourcing_yelp,Restaurante Âncora Douro,,,,,R. da Botelha Loja 13 Edificio Delta Marina 8125-448 Quarteira Portugal,37.079279,-8.117009,,914 186 197,,,,,,,4,1 ,,"
+Mon4:00 PM - 12:00 AM (Next day)
+Tue4:00 PM - 12:00 AM (Next day)
+Wed4:00 PM - 12:00 AM (Next day)
+Thu4:00 PM - 12:00 AM (Next day)
+Fri4:00 PM - 12:00 AM (Next day)
+Sat4:00 PM - 12:00 AM (Next day)
+Sun4:00 PM - 12:00 AM (Next day)",,,"International, Portuguese, Seafood",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/pedras-amarelas-albufeira,,,yelp,sourcing_yelp,Pedras Amarelas,,,,,Estrada da Galé Albufeira Portugal,37.080700,-8.315920,,289 591 951,,,,,,,3.5,6 ,,,,,Portuguese,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-do-gigi-faro,,,yelp,sourcing_yelp,Restaurante Do gigi,,,,,Av. Andre jordan 8135-024 Faro Portugal,37.033263,-8.019949,,964 045 178,,,,,,,4,1 ,,"
+Mon11:00 AM - 4:00 PM
+Tue11:00 AM - 4:00 PM
+Wed11:00 AM - 4:00 PM
+Thu11:00 AM - 4:00 PM
+Fri11:00 AM - 4:00 PM
+Sat11:00 AM - 4:00 PM
+Sun11:00 AM - 4:00 PM",,,Portuguese,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/flavours-albufeira,,,yelp,sourcing_yelp,Flavours,,,,,"Largo Cais Herculano, 15 8200-061 Albufeira Portugal",37.087076,-8.249864,,,,,,,,,4,1 ,,"
+Mon9:00 AM - 2:00 AM (Next day)
+Tue9:00 AM - 2:00 AM (Next day)Open now
+Wed9:00 AM - 2:00 AM (Next day)
+Thu9:00 AM - 2:00 AM (Next day)
+Fri9:00 AM - 2:00 AM (Next day)
+Sat9:00 AM - 2:00 AM (Next day)
+Sun9:00 AM - 2:00 AM (Next day)",,,Portuguese,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/o-pescador-restaurante-albufeira,,,yelp,sourcing_yelp,O Pescador Restaurante,,,,,Praia de Santa Eulália 8200-381 Albufeira Portugal,37.087885,-8.214994,,289 586 834,,,,,,,,,,,,,"Modern European, Seafood, Mediterranean",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/trio-restaurant-almancil,,,yelp,sourcing_yelp,Trio Restaurant,,,,,"R. Manuel Teixeira Gomes, 802A 8135-160 Almancil Portugal",37.064353,-8.048527,,,,,,,,,5,2 ,,"
+Mon6:30 PM - 11:30 PM
+TueClosed
+Wed6:30 PM - 11:30 PM
+Thu6:30 PM - 11:30 PM
+Fri6:30 PM - 11:30 PM
+Sat6:30 PM - 11:30 PM
+Sun6:30 PM - 11:30 PM",,,"Seafood, Vegetarian, Bars",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/symmetrical-flavours-albufeira,,,yelp,sourcing_yelp,Symmetrical Flavours,,,,,"Cerro Alto da Mosqueira, Caixa Postal 58Z 8200-562 Albufeira Portugal",37.118440,-8.215255,,,,,,,,,,,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/american-diner-albufeira,,,yelp,sourcing_yelp,American Diner,,,,,Av. Dr. Francisco Sa Carneiro 8200-291 Albufeira Portugal,37.097836,-8.227875,,289 587 338,,,,,,,,,,,,,American (Traditional),,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/estrela-do-mar-arma%C3%A7%C3%A3o-de-p%C3%AAra-2,,,yelp,sourcing_yelp,Estrela Do Mar,,,,,Praia dos Pescadores 8365-000 Armação de Pêra Portugal,37.100234,-8.356434,,282 313 775,,,,,,,3.5,2 ,,,,,Seafood,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/toka-tapas-porches,,,yelp,sourcing_yelp,Toka Tapas,,,,,"R. António Joaquim Cabrita, 9 8400-498 Porches Portugal",37.126221,-8.397396,,282 356 028,,,,,,,5,1 ,,"
+MonClosed
+Tue4:00 PM - 2:00 AM (Next day)
+Wed4:00 PM - 2:00 AM (Next day)
+Thu4:00 PM - 2:00 AM (Next day)
+Fri4:00 PM - 3:00 AM (Next day)
+Sat4:00 PM - 3:00 AM (Next day)
+Sun4:00 PM - 2:00 AM (Next day)",,,"Wine Bars, Tapas Bars",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/jaipur-indian-restaurant-albufeira,,,yelp,sourcing_yelp,Jaipur Indian Restaurant,,,,,"Tv. 1º de Dezembro, 28-30 8200-121 Albufeira Portugal",37.088000,-8.256120,,289 585 707,,,,,,,4.5,3 ,,"
+Mon11:30 AM - 11:30 PM
+Tue11:30 AM - 11:30 PM
+Wed11:30 AM - 11:30 PM
+Thu11:30 AM - 11:30 PM
+Fri11:30 AM - 11:30 PM
+Sat11:30 AM - 11:30 PM
+Sun5:30 PM - 11:30 PM",,,Indian,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/casavostra-pizzeria-almancil-2,,,yelp,sourcing_yelp,Casavostra Pizzeria,,,,,"Av. de 5 de Outubro, 302 8135-103 Almancil Portugal",37.093267,-8.040961,,,,,,,,,4,2 ,,"
+Mon12:00 PM - 11:30 PM
+Tue12:00 PM - 11:30 PM
+Wed12:00 PM - 11:30 PM
+Thu12:00 PM - 11:30 PM
+Fri12:00 PM - 11:30 PM
+Sat12:00 PM - 11:30 PM
+Sun12:00 PM - 11:30 PM",,,"Italian, Pizza",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/mourap%C3%A3o-vilamoura,,,yelp,sourcing_yelp,Mourapão,,,,,Location Avenida da  Marina 8125-419 Vilamoura Portugal,37.077674,-8.115974,,289 301 396,,,,,,,4.5,5 ,,"
+Mon8:00 AM - 11:00 PM
+Tue8:00 AM - 11:00 PMOpen now
+Wed8:00 AM - 11:00 PM
+Thu8:00 AM - 11:00 PM
+Fri8:00 AM - 11:00 PM
+Sat8:00 AM - 11:00 PM
+Sun8:00 AM - 11:00 PM",,,"Bakeries, Cafeteria",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/a-caravela-loul%C3%A9,,,yelp,sourcing_yelp,A Caravela,,,,,"Largo Mercado Bloco 3, 17 8125-168 Loulé Portugal",37.068985,-8.106917,,289 312 280,,,,,,,5,1 ,,,,,Portuguese,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/roberto-rodrigues-viana-albufeira,,,yelp,sourcing_yelp,Roberto Rodrigues Viana,,,,,,37.116093,-8.212938,,,,,,,,,,,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/alentejo-guia,,,yelp,sourcing_yelp,,,,,,,,,,,,,,,,,,,,,,,,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/fat-cats-albufeira,,,yelp,sourcing_yelp,Fat Cats,,,,,"Rua de Dunfermline, 9 8200 391 Albufeira Portugal",37.092580,-8.232986,,,,,,,,,2,1 ,,"
+Mon9:00 AM - 1:00 AM (Next day)
+Tue9:00 AM - 1:00 AM (Next day)Open now
+Wed9:00 AM - 1:00 AM (Next day)
+Thu9:00 AM - 1:00 AM (Next day)
+Fri9:00 AM - 1:00 AM (Next day)
+Sat9:00 AM - 1:00 AM (Next day)
+Sun9:00 AM - 1:00 AM (Next day)",,,"Desserts, Burgers, Cocktail Bars",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/marias-porto,,,yelp,sourcing_yelp,Maria's,,,,,Praia do Garrão Poente 8135-170 Porto Portugal,37.046352,-8.058642,,,,,,,,,3.5,5 ,,,,,"Portuguese, Lounges",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-o-amigo-albufeira,,,yelp,sourcing_yelp,Restaurante o Amigo,,,,,,37.082243,-8.298123,,289 591 482,,,,,,,5,1 ,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/visit_captcha?CID=GK&original_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Frestaurante-os-compadres-albufeira,,,yelp,sourcing_yelp,,,,,,,,,,,,,,,,,,,,,,,,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/o-walter-arma%C3%A7%C3%A3o-de-p%C3%AAra,,,yelp,sourcing_yelp,O Walter,,,,,R. Dr. Manuel Arriaga 8365-140 Armação de Pêra Portugal,37.102162,-8.358322,,961 038 809,,,,,,,5,1 ,,,,,"Seafood, Mediterranean",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/chefs-peking-olhos-de-%C3%A1gua,,,yelp,sourcing_yelp,Chef's Peking,,,,,Centro Comercial Umbrisol R. 25 de Abril 8200-647 Olhos de Água Portugal,37.092125,-8.188418,,289 502 407,,,,,,,4,1 ,,"
+Mon6:00 PM - 12:00 AM (Next day)
+Tue6:00 PM - 12:00 AM (Next day)
+Wed6:00 PM - 12:00 AM (Next day)
+Thu6:00 PM - 12:00 AM (Next day)
+Fri6:00 PM - 12:00 AM (Next day)
+Sat6:00 PM - 12:00 AM (Next day)
+Sun6:00 PM - 12:00 AM (Next day)",,,Chinese,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/a-gaivota-loul%C3%A9,,,yelp,sourcing_yelp,A Gaivota,,,,,Praia Forte Novo Quarteira Loulé Portugal,37.062537,-8.090710,,+31 289 092831,,,,,,,5,1 ,,,,,"Portuguese, Pubs",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/vila-de-italia-porches,,,yelp,sourcing_yelp,Vila de Italia,,,,,Aldeamento Algarclub 8400-458 Porches Portugal,37.103481,-8.384569,,282 317 077,,,,,,,5,1 ,,,,,"Italian, Mediterranean, Pizza",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/olivalmar-arma%C3%A7%C3%A3o-de-p%C3%AAra,,,yelp,sourcing_yelp,Olivalmar,,,,,Praia do Olival 8365-158 Armação de Pêra Portugal,37.102746,-8.369407,,282 317 427,,,,,,,5,1 ,,,,,"Seafood, Beach Bars",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-jo%C3%A3o-de-deus-silves,,,yelp,sourcing_yelp,Restaurante João de Deus,,,,,"R. José Francisco Viseu, Lote 3 8375-139 Silves Portugal",37.257569,-8.292195,,282 338 172,,,,,,,5,1 ,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/visit_captcha?CID=GK&original_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Ffigo-sete-caf%25C3%25A9-quarteira,,,yelp,sourcing_yelp,,,,,,,,,,,,,,,,,,,,,,,,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-retiro-dos-arcos-loul%C3%A9,,,yelp,sourcing_yelp,Restaurante Retiro dos Arcos,,,,,"Av. Marçal Pacheco, 25 8100-502 Loulé Portugal",37.137746,-8.021812,,289 413 861,,,,,,,5,2 ,,,,,Portuguese,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/casa-de-pasto-a-paragem-porches,,,yelp,sourcing_yelp,Casa de Pasto A Paragem,,,,,"EM530-1, 235 8400-498 Porches Portugal",37.110593,-8.389331,,,,,,,,,5,1 ,,,,,"Seafood, Portuguese",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/o-penedo-sociedade-de-restaurantes-albufeira,,,yelp,sourcing_yelp,O Penedo - Sociedade de Restaurantes,,,,,"R. de Latino Coelho, 15 8200-150 Albufeira Portugal",37.085419,-8.255969,,289 587 429,,,,,,,3.5,7 ,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-ramires-albufeira,,,yelp,sourcing_yelp,Restaurante Ramires,,,,,"R. 25 de Abril, 14 8200-433 Albufeira Portugal",37.126307,-8.299135,,,,,,,,,4.5,,,"
+Mon12:00 PM - 1:00 AM (Next day)
+Tue12:00 PM - 1:00 AM (Next day)
+Wed12:00 PM - 1:00 AM (Next day)
+Thu12:00 PM - 1:00 AM (Next day)
+Fri12:00 PM - 1:00 AM (Next day)
+Sat12:00 PM - 1:00 AM (Next day)
+Sun12:00 PM - 1:00 AM (Next day)",,,,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/casa-do-pescado-quarteira-2,,,yelp,sourcing_yelp,Casa do Pescado,,,,,R. da Botelha Loja 2 8125-448 Quarteira Portugal,37.077331,-8.116979,,289 389 697,,,,,,,4.5,3 ,,"
+Mon4:00 PM - 11:00 PM
+Tue4:00 PM - 11:00 PM
+Wed4:00 PM - 11:00 PM
+Thu4:00 PM - 11:00 PM
+Fri4:00 PM - 11:00 PM
+Sat4:00 PM - 11:00 PM
+Sun4:00 PM - 11:00 PM",,,"Seafood, Portuguese, Mediterranean",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/o-alambique-silves,,,yelp,sourcing_yelp,O Alambique,,,,,Poço Barreto 8300-042 Silves Portugal,37.165588,-8.394265,,,,,,,,,5,,,"
+Mon6:30 PM - 10:00 PM
+TueClosed
+WedClosed
+Thu6:30 PM - 10:00 PM
+Fri6:30 PM - 10:00 PM
+Sat6:30 PM - 10:00 PM
+Sun6:30 PM - 10:00 PM",,,,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/gourmet-natural-almancil,,,yelp,sourcing_yelp,Gourmet Natural,,,,,"Apartado, 3954 8135-018 Almancil Portugal",37.071957,-8.052873,,,,,,,,,5,1 ,,"
+Mon7:00 PM - 3:00 AM (Next day)
+Tue7:00 PM - 3:00 AM (Next day)
+Wed7:00 PM - 3:00 AM (Next day)
+Thu7:00 PM - 3:00 AM (Next day)
+Fri7:00 PM - 3:00 AM (Next day)
+Sat7:00 PM - 3:00 AM (Next day)
+Sun7:00 PM - 3:00 AM (Next day)",,,Steakhouses,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-o-teod%C3%B3sio-albufeira,,,yelp,sourcing_yelp,Restaurante o Teodósio,,,,,"R. do Emigrante, 50 8200-440 Albufeira Portugal",37.131521,-8.299549,,,,,,,,,5,4 ,,"
+Mon12:00 PM - 3:00 PM6:30 PM - 10:30 PM
+Tue12:00 PM - 3:00 PM6:30 PM - 10:30 PM
+Wed12:00 PM - 3:00 PM6:30 PM - 10:30 PM
+Thu12:00 PM - 3:00 PM6:30 PM - 10:30 PM
+Fri12:00 PM - 3:00 PM6:30 PM - 10:30 PM
+Sat12:00 PM - 3:00 PM6:30 PM - 10:30 PM
+Sun12:00 PM - 3:00 PM6:30 PM - 10:30 PM",,,Chicken Shop,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/curry-leaves-albufeira,,,yelp,sourcing_yelp,Curry Leaves,,,,,"Estrada de Santa Eulália, 11 Edifício Coral 8200-269 Albufeira Portugal",37.089529,-8.220292,,289 093 671,,,,,,,4,5 ,,,,,"Indian, Bars, Vegetarian",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/maria-isabel-grade-e-filhos-albufeira-2,,,yelp,sourcing_yelp,Maria Isabel Grade & Filhos,,,,,,37.080406,-8.315773,,289 591 636,,,,,,,5,1 ,,,,,Portuguese,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-s%C3%A3o-domingos-albufeira,,,yelp,sourcing_yelp,Restaurante São Domingos,,,,,Estrada de Vale Rabelho Galé Guia 8200-428 Albufeira Portugal,37.092161,-8.310004,,,,,,,,,5,1 ,,"
+Mon12:30 PM - 2:30 PM6:30 PM - 10:30 PM
+TueClosed
+Wed12:30 PM - 2:30 PM6:30 PM - 10:30 PM
+Thu12:30 PM - 2:30 PM6:30 PM - 10:30 PM
+Fri12:30 PM - 2:30 PM6:30 PM - 10:30 PM
+Sat12:30 PM - 2:30 PM6:30 PM - 10:30 PM
+Sun12:30 PM - 2:30 PM6:30 PM - 10:30 PM",,,"Portuguese, Seafood, Mediterranean",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/arte-nautica-arma%C3%A7%C3%A3o-de-p%C3%AAra-2,,,yelp,sourcing_yelp,Arte Nautica,,,,,Av. do Rio 8365-102 Armação de Pêra Portugal,37.099809,-8.353095,,282 314 875,,,,,,,5,1 ,,"
+Mon10:00 AM - 10:00 PM
+Tue10:00 AM - 10:00 PMOpen now
+Wed10:00 AM - 10:00 PM
+Thu10:00 AM - 10:00 PM
+Fri10:00 AM - 10:00 PM
+Sat10:00 AM - 10:00 PM
+Sun10:00 AM - 10:00 PM",,,"Seafood, Portuguese",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/open-sea-albufeira,,,yelp,sourcing_yelp,Open Sea,,,,,Rua Sacadura Cabral 25 8200-176 Albufeira Portugal,37.086400,-8.247540,,,,,,,,,,,,,,,Mediterranean,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/pastelarias-colibri-albufeira,,,yelp,sourcing_yelp,Pastelarias Colibri,,,,,"Rua da Âncora, 3 Albufeira Portugal",37.083316,-8.309888,,,,,,,,,5,1 ,,,,,Cafes,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/piri-piri-quarteira,,,yelp,sourcing_yelp,Piri Piri,,,,,"R. das Laranjeiras, 6 8125-470 Quarteira Portugal",37.085455,-8.121330,,289 315 124,,,,,,,5,1 ,,,,,"Portuguese, Mediterranean",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/sal-rosa-albufeira,,,yelp,sourcing_yelp,Sal Rosa,,,,,"Praça Miguel Bombarda, 2 8200-076 Albufeira Portugal",37.087055,-8.253630,,289 513 089,,,,,,,5,2 ,,,,,"Wine Bars, Portuguese",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/mare-at-pine-cliffs-albufeira,,,yelp,sourcing_yelp,Mare at Pine Cliffs,,,,,Praia Da Falésia Pinhal do Concelho 8200-593 Albufeira Portugal,37.088012,-8.169948,,,,,,,,,,,,"
+Mon9:00 AM - 10:00 PM
+Tue9:00 AM - 10:00 PMOpen now
+Wed9:00 AM - 10:00 PM
+Thu9:00 AM - 10:00 PM
+Fri9:00 AM - 10:00 PM
+Sat9:00 AM - 10:00 PM
+Sun9:00 AM - 10:00 PM",,,Seafood,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/pizzeria-fal%C3%A9sia-albufeira,,,yelp,sourcing_yelp,Pizzeria Falésia,,,,,R. do Pinhal 8200-593 Albufeira Portugal,37.089935,-8.168294,,289 502 843,,,,,,,5,4 ,,"
+MonClosed
+Tue12:00 PM - 11:00 PM
+Wed12:00 PM - 11:00 PM
+Thu12:00 PM - 11:00 PM
+Fri12:00 PM - 11:00 PM
+Sat12:00 PM - 11:00 PM
+Sun12:00 PM - 11:00 PM",,,Pizza,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/solcaff%C3%A9-albufeira,,,yelp,sourcing_yelp,Solcaffé,,,,,"Urb. Qta. Pedra dos Bicos, Lt 2 Loja 6 8200-670 Albufeira Portugal",37.089240,-8.222791,,289 543 294,,,,,,,5,1 ,,"
+Mon8:30 AM - 2:00 AM (Next day)
+Tue8:30 AM - 2:00 AM (Next day)Open now
+Wed8:30 AM - 2:00 AM (Next day)
+Thu8:30 AM - 2:00 AM (Next day)
+Fri8:30 AM - 2:00 AM (Next day)
+Sat8:30 AM - 2:00 AM (Next day)
+Sun8:30 AM - 2:00 AM (Next day)",,,"Sports Bars, Cafes, Pizza",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-o-farol-albufeira-2,,,yelp,sourcing_yelp,Restaurante O Farol,,,,,"Largo 25 de Abril, s/n Praia dos Pescadores 8200-014 Albufeira Portugal",37.087075,-8.249369,,289 591 618,,,,,,,4,1 ,,,,,Seafood,,,07/13/2021,15:16:27
+,https://www.yelp.com/visit_captcha?CID=GK&original_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fakvavit-vilamoura,,,yelp,sourcing_yelp,,,,,,,,,,,,,,,,,,,,,,,,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/pastelaria-martinique-velha-santa-eul%C3%A1lia-albufeira,,,yelp,sourcing_yelp,Pastelaria Martinique Velha Santa Eulália,,,,,Estrada de Santa Eulália Albufeira Portugal,37.091967,-8.222748,,,,,,,,,5,2 ,,,,,Cafes,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/piri-piri-steakhouse-albufeira,,,yelp,sourcing_yelp,Piri Piri Steakhouse,,,,,Praia Da Falésia Pinhal do Concelho 8200-909 Albufeira Portugal,37.088132,-8.169592,,,,,,,,,3.5,2 ,,"
+Mon6:00 PM - 10:30 PM
+TueClosed
+WedClosed
+Thu6:00 PM - 10:30 PM
+Fri6:00 PM - 10:30 PM
+Sat6:00 PM - 10:30 PM
+Sun6:00 PM - 10:30 PM",,,Steakhouses,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/verde-minho-albufeira,,,yelp,sourcing_yelp,Verde Minho,,,,,"R. Dunfermline, 16 8200-278 Albufeira Portugal",37.091377,-8.234515,,,,,,,,,4,2 ,,,,,Portuguese,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-caf%C3%A9-oceano-albufeira,,,yelp,sourcing_yelp,Restaurante Café Oceano,,,,,"Largo Cais Herculano, 12 8200-061 Albufeira Portugal",37.087157,-8.250110,,,,,,,,,4.5,2 ,,"
+Mon9:00 AM - 10:00 PM
+Tue9:00 AM - 10:00 PMOpen now
+Wed9:00 AM - 10:00 PM
+Thu9:00 AM - 10:00 PM
+Fri9:00 AM - 10:00 PM
+Sat9:00 AM - 10:00 PM
+Sun9:00 AM - 10:00 PM",,,"Seafood, Mediterranean",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/a-casa-do-avo-albufeira,,,yelp,sourcing_yelp,A Casa Do Avo,,,,,Sito Vale da Parra 8200-427 Albufeira Portugal,37.109922,-8.307163,,289 513 282,,,,,,,5,8 ,,,,,Portuguese,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/iguana-cafe-albufeira,,,yelp,sourcing_yelp,Iguana Cafe,,,,,"R. Latino Coelho, 59 8200-150 Albufeira Portugal",37.085000,-8.256270,,289 513 011,,,,,,,5,4 ,,"
+Mon11:00 AM - 10:00 PM
+Tue11:00 AM - 10:00 PMOpen now
+Wed11:00 AM - 10:00 PM
+Thu11:00 AM - 10:00 PM
+Fri11:00 AM - 10:00 PM
+Sat11:00 AM - 10:00 PM
+Sun11:00 AM - 10:00 PM",,,"Mediterranean, Cafes",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/a-sardinha-albufeira,,,yelp,sourcing_yelp,A Sardinha,,,,,Praia dos Arrifes 8200-000 Albufeira Portugal,37.076319,-8.277305,,,,,,,,,4.5,5 ,,"
+Mon10:00 AM - 2:00 AM (Next day)
+Tue10:00 AM - 2:00 AM (Next day)Open now
+Wed10:00 AM - 2:00 AM (Next day)
+Thu10:00 AM - 2:00 AM (Next day)
+Fri10:00 AM - 2:00 AM (Next day)
+Sat10:00 AM - 2:00 AM (Next day)
+Sun10:00 AM - 2:00 AM (Next day)",,,"Desserts, Seafood, Portuguese",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-palacete-albufeira,,,yelp,sourcing_yelp,Restaurante Palacete,,,,,"R. Almeida Garret, 42 8200-272 Albufeira Portugal",37.089089,-8.233871,,,,,,,,,4,1 ,,"
+MonClosed
+Tue12:00 PM - 12:00 AM (Next day)
+Wed12:00 PM - 12:00 AM (Next day)
+Thu12:00 PM - 12:00 AM (Next day)
+Fri12:00 PM - 12:00 AM (Next day)
+Sat12:00 PM - 12:00 AM (Next day)
+Sun12:00 PM - 12:00 AM (Next day)",,,"Seafood, Portuguese",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-o-david-albufeira,,,yelp,sourcing_yelp,Restaurante O David,,,,,"R. João de Deus, 24A 8200-076 Albufeira Portugal",37.087202,-8.253421,,289 516 631,,,,,,,5,1 ,,,,,"Seafood, Portuguese",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/cervejaria-a-mar%C3%A9-albufeira,,,yelp,sourcing_yelp,Cervejaria a Maré,,,,,"Largo Engenheiro Duarte Pacheco, 25 8200-065 Albufeira Portugal",37.088097,-8.252912,,289 512 219,,,,,,,5,1 ,,,,,"Portuguese, Beer Bar",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/martinique-albufeira-albufeira,,,yelp,sourcing_yelp,,,,,,,,,,,,,,,,,,,,,,,,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurant-cerro-grande-albufeira,,,yelp,sourcing_yelp,Restaurant Cerro Grande,,,,,Rua Cerro Grande Centro Comercial Cerro Grande Albufeira Portugal,37.084100,-8.260560,,289 572 151,,,,,,,4,1 ,,,,,Restaurants,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/casa-da-fonte-albufeira,,,yelp,sourcing_yelp,Casa Da Fonte,,,,,"R. João Deus, 7 8200-142 Albufeira Portugal",37.087204,-8.253282,,,,,,,,,4,8 ,,"
+Mon12:00 PM - 12:00 AM (Next day)
+Tue12:00 PM - 12:00 AM (Next day)
+Wed12:00 PM - 12:00 AM (Next day)
+Thu12:00 PM - 12:00 AM (Next day)
+Fri12:00 PM - 12:00 AM (Next day)
+Sat12:00 PM - 12:00 AM (Next day)
+Sun12:00 PM - 12:00 AM (Next day)",,,"Bars, Seafood, Portuguese",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/italian-villa-albufeira,,,yelp,sourcing_yelp,Italian Villa,,,,,"Av. Sá Carneiro, 132 8200-362 Albufeira Portugal",37.096477,-8.228346,,,,,,,,,,,,"
+Mon8:00 AM - 11:00 PM
+Tue8:00 AM - 11:00 PMOpen now
+Wed8:00 AM - 11:00 PM
+Thu8:00 AM - 11:00 PM
+Fri8:00 AM - 11:00 PM
+Sat8:00 AM - 11:00 PM
+Sun8:00 AM - 11:00 PM",,,"Pizza, Steakhouses, Gluten-Free",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/casa-nova-albufeira,,,yelp,sourcing_yelp,Casa Nova,,,,,"R. João Bailote, 4 8200-140 Albufeira Portugal",37.087738,-8.252773,,289 514 068,,,,,,,5,2 ,,,,,"Portuguese, Mediterranean",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/o-golfinho-olhos-de-%C3%A1gua,,,yelp,sourcing_yelp,O Golfinho,,,,,Praia Abelharucas 8200-229 Olhos de Água Portugal,37.091438,-8.183408,,,,,,,,,4.5,3 ,,"
+Mon9:00 AM - 11:00 PM
+Tue9:00 AM - 11:00 PMOpen now
+Wed9:00 AM - 11:00 PM
+Thu9:00 AM - 11:00 PM
+Fri9:00 AM - 11:00 PM
+Sat9:00 AM - 11:00 PM
+Sun9:00 AM - 11:00 PM",,,"Seafood, Portuguese, Bars",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/p%C3%A1ssaro-azul-olhos-de-%C3%A1gua,,,yelp,sourcing_yelp,Pássaro Azul,,,,,"Rua 25 de Abril, 33 8200-647 Olhos de Água Portugal",37.091010,-8.190318,,289 502 852,,,,,,,4.5,3 ,,,,,Seafood,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/restaurante-tr%C3%AAs-palmeiras-albufeira-3,,,yelp,sourcing_yelp,Restaurante Três Palmeiras,,,,,"Av. Infante Dom Henrique, 51 8200-261 Albufeira Portugal",37.088264,-8.234906,,,,,,,,,4,7 ,,"
+Mon12:30 PM - 3:00 PM6:30 PM - 10:30 PM
+Tue12:30 PM - 3:00 PM6:30 PM - 10:30 PM
+Wed12:30 PM - 3:00 PM6:30 PM - 10:30 PM
+Thu12:30 PM - 3:00 PM6:30 PM - 10:30 PM
+Fri12:30 PM - 3:00 PM6:30 PM - 10:30 PM
+Sat12:30 PM - 3:00 PM6:30 PM - 10:30 PM
+SunClosed",,,"Portuguese, Seafood, Mediterranean",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/fratelli-albufeira,,,yelp,sourcing_yelp,Fratelli,,,,,"R. 25 de Abril,19 8200-647 Albufeira Portugal",37.090343,-8.190630,,,,,,,,,4.5,3 ,,"
+Mon11:00 AM - 12:00 AM (Next day)
+Tue11:00 AM - 12:00 AM (Next day)Open now
+Wed11:00 AM - 12:00 AM (Next day)
+Thu11:00 AM - 12:00 AM (Next day)
+Fri11:00 AM - 12:00 AM (Next day)
+SatClosed
+Sun11:00 AM - 12:00 AM (Next day)",,,"Italian, Pizza",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/johnny-hoopers-saxophone-bistro-albufeira,,,yelp,sourcing_yelp,Johnny Hooper's Saxophone Bistro,,,,,"R. Almeida Garret, 30 8200-272 Albufeira Portugal",37.090500,-8.230650,,,,,,,,,4.5,6 ,,"
+Mon6:00 PM - 9:30 PM
+Tue6:00 PM - 12:00 AM (Next day)
+WedClosed
+Thu6:00 PM - 9:30 PM
+Fri6:00 PM - 12:00 AM (Next day)
+SatClosed
+Sun11:00 AM - 5:00 PM",,,"Jazz & Blues, Bars, Bistros",,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/adega-dom-pipas-albufeira,,,yelp,sourcing_yelp,Adega Dom Pipas,,,,,"Travessa dos Arcos, 11 8200-137 Albufeira Portugal",37.087932,-8.253676,,289 588 091,,,,,,,5,1 ,,,,,Portuguese,,,07/13/2021,15:16:27
+,https://www.yelp.com/biz/valentino-ristorante-e-pizzeria-albufeira,,,yelp,sourcing_yelp,Valentino Ristorante & Pizzeria,,,,,"R. Ramalho Ortigão, 6 8200-604 Albufeira Portugal",37.086718,-8.225752,,,,,,,,,5,1 ,,"
+Mon10:00 AM - 2:00 AM (Next day)
+Tue10:00 AM - 12:00 AM (Next day)Open now
+Wed10:00 AM - 2:00 AM (Next day)
+Thu10:00 AM - 2:00 AM (Next day)
+Fri10:00 AM - 2:00 AM (Next day)
+Sat10:00 AM - 2:00 AM (Next day)
+Sun10:00 AM - 12:00 AM (Next day)",,,"Pizza, Italian",,,07/13/2021,15:16:27

@@ -1,0 +1,404 @@
+city_code,city_name,country_code,country_name
+ABF,Albufeira,PT,Portugal
+ABO,Albolote,ES,Spain
+ABR,Abrera,ES,Spain
+ABT,Abrantes,PT,Portugal
+ACB,Alcoba�a,PT,Portugal
+ACO,Alcoy,ES,Spain
+ADR,Andorra,ES,Spain
+AGA,Agueda,PT,Portugal
+AGL,�guilas,ES,Spain
+AGT,Algete,ES,Spain
+AGU,Aguadulce,ES,Spain
+AHG,Alhaurin El Grande,ES,Spain
+AHT,Alhaurin de la Torre,ES,Spain
+AJZ,Aranjuez,ES,Spain
+ALB,Albacete,ES,Spain
+ALC,Alicante,ES,Spain
+ALD,Aldaia - Alacuas,ES,Spain
+ALF,Alfaz del Pi,ES,Spain
+ALG,Algeciras,ES,Spain
+ALJ,Aljaraque,ES,Spain
+ALM,Almer�a,ES,Spain
+ALN,Almendralejo,ES,Spain
+ALR,Alcantarilla,ES,Spain
+ALV,Alverca,PT,Portugal
+ALZ,Alzira - Alcudia,ES,Spain
+AMA,Amarante,PT,Portugal
+AMC,Almunecar,ES,Spain
+AMD,Almada,PT,Portugal
+AMO,Alamo,ES,Spain
+AMP,Amposta,ES,Spain
+AND,Andujar,ES,Spain
+ARA,Aranda de Duero,ES,Spain
+ARC,Arcos de la Frontera,ES,Spain
+ARF,Arrecife,ES,Spain
+ARR,Arrasate (Mondragon),ES,Spain
+ARV,Arruda dos Vinhos,PT,Portugal
+ARX,Arteixo,ES,Spain
+ARY,Arroyomolinos,ES,Spain
+ASJ,Alcazar de San Juan,ES,Spain
+ASL,Astillero,ES,Spain
+ATQ,Antequera,ES,Spain
+AVI,Aviles,ES,Spain
+AVL,Avila,ES,Spain
+AVR,Aveiro,PT,Portugal
+AYA,Ayamonte,ES,Spain
+AZU,Azuqueca de Henares,ES,Spain
+BAE,Baeza,ES,Spain
+BAS,Basauri,ES,Spain
+BAY,Bayona,ES,Spain
+BCL,Barcelos,PT,Portugal
+BCN,Barcelona,ES,Spain
+BDL,Bobadela,PT,Portugal
+BEJ,Bejar,ES,Spain
+BEN,Benicarlo,ES,Spain
+BER,Berango - Sopelana,ES,Spain
+BIL,Bilbao,ES,Spain
+BJA,Beja,PT,Portugal
+BJZ,Badajoz,ES,Spain
+BKL,Barakaldo,ES,Spain
+BLA,Blanes,ES,Spain
+BNC,Benicasim,ES,Spain
+BNR,Benidorm,ES,Spain
+BNT,Benavente,ES,Spain
+BNV,Benavente,PT,Portugal
+BOI,Boiro,ES,Spain
+BRA,Bragan�a,PT,Portugal
+BRG,Braga,PT,Portugal
+BRR,Barreiro,PT,Portugal
+BRU,Brunete,ES,Spain
+BUR,Burriana,ES,Spain
+CAA,Cartagena,ES,Spain
+CAC,Caceres,ES,Spain
+CAL,Calella,ES,Spain
+CAN,Cancelada,ES,Spain
+CAR,Carmona,ES,Spain
+CBL,Cambrils,ES,Spain
+CBR,Castelo Branco,PT,Portugal
+CDN,Condeixa,PT,Portugal
+CDP,Cabo de Palos - La Manga,ES,Spain
+CDZ,Cadiz,ES,Spain
+CEU,Ceuta,ES,Spain
+CGD,Carregado,PT,Portugal
+CHA,Las Chafiras,ES,Spain
+CHF,Chiclana de la Frontera,ES,Spain
+CHP,Chipiona,ES,Spain
+CIN,Coin,ES,Spain
+CIS,Cisterniga,ES,Spain
+CLH,Calahorra,ES,Spain
+CLP,Calpe,ES,Spain
+CLR,Caldas da Rainha,PT,Portugal
+CMI,Cala Millor,ES,Spain
+CMP,El Campello,ES,Spain
+CND,Candelaria,ES,Spain
+CNG,Cangas,ES,Spain
+CNL,Conil de la Frontera,ES,Spain
+CNO,Canedo,PT,Portugal
+CNT,Cunit,ES,Spain
+COA,Costa de Adeje,ES,Spain
+COI,Coimbra,PT,Portugal
+COL,Colmenar Viejo,ES,Spain
+COV,Covilh�,PT,Portugal
+CPN,Campanillas,ES,Spain
+CRE,Ciudad Real,ES,Spain
+CRI,Coria del Rio,ES,Spain
+CRL,Carballo,ES,Spain
+CRR,Corralejo,ES,Spain
+CRT,Cartama,ES,Spain
+CST,Castelldefels,ES,Spain
+CTD,Cantanhede,PT,Portugal
+CTL,Castell�n de la Plana,ES,Spain
+CTX,Cartaxo,PT,Portugal
+CUG,Sant Cugat del Vall�s y Rub�,ES,Spain
+CUL,Cullera,ES,Spain
+CUN,Cuenca,ES,Spain
+CVI,Collado de Villalba,ES,Spain
+CVL,Crevillente,ES,Spain
+CVS,Carvalhos,PT,Portugal
+DEH,La Dehesa de Campoamor,ES,Spain
+DNA,Denia,ES,Spain
+DSH,Dos Hermanas,ES,Spain
+DUR,Durango,ES,Spain
+EAS,San Sebasti�n,ES,Spain
+EBR,Miranda de Ebro,ES,Spain
+ECI,Ecija,ES,Spain
+ECS,El Casar,ES,Spain
+EJI,El Ejido,ES,Spain
+ELP,El Puerto de Santamaría,ES,Spain
+ELV,Elvas,PT,Portugal
+ELX,Elche,ES,Spain
+EPO,Espinho,PT,Portugal
+EPS,Esposende,PT,Portugal
+ERC,Ericeira,PT,Portugal
+ESC,El Escorial,ES,Spain
+ESL,La Escala,ES,Spain
+ESP,Esparreguera,ES,Spain
+ESR,Espartinas,ES,Spain
+EST,Estepona,ES,Spain
+ETZ,Estremoz,PT,Portugal
+EVO,Evora,PT,Portugal
+FAO,Faro,PT,Portugal
+FAR,La pobla de Farnals,ES,Spain
+FDA,Fuenlabrada,ES,Spain
+FER,San Fernando,ES,Spain
+FGF,Figueira da Foz,PT,Portugal
+FIG,Figueras,ES,Spain
+FML,Famalic�o,PT,Portugal
+FNF,Fern�o Ferro,PT,Portugal
+FNG,Fuengirola,ES,Spain
+FRN,Ferrol y Naron,ES,Spain
+FTM,F�tima,PT,Portugal
+FUN,Funchal,PT,Portugal
+GAL,Galdacano,ES,Spain
+GAN,Gandia,ES,Spain
+GAR, Vera - Garrucha,ES,Spain
+GAV,Gava - Viladecans,ES,Spain
+GDL,Guadalajara,ES,Spain
+GDR,Guadarrama,ES,Spain
+GDX,Guadix,ES,Spain
+GIJ,Gijon,ES,Spain
+GLE,Granollers,ES,Spain
+GLP,Galapagar,ES,Spain
+GMS,Guimaraes,PT,Portugal
+GRA,Granada,ES,Spain
+GRD,Guarda,PT,Portugal
+GRI,Gri�on,ES,Spain
+GRO,Girona,ES,Spain
+GTX,Getxo,ES,Spain
+GUA,Alcala de Guadaira,ES,Spain
+HEN,Alcal� de Henares,ES,Spain
+HLL,Hellin,ES,Spain
+HSK,Huesca,ES,Spain
+HUV,Huelva,ES,Spain
+IBI,Ibi,ES,Spain
+IBZ,Ibiza,ES,Spain
+ILL,Illescas,ES,Spain
+INC,Inca,ES,Spain
+IRU,Irun,ES,Spain
+JEN,Jaen,ES,Spain
+LCG,A Coru�a,ES,Spain
+LDC,Linea de la Concepcion,ES,Spain
+LDM,Lloret de Mar,ES,Spain
+LEB,Lebrija,ES,Spain
+LEI,Leiria,PT,Portugal
+LEN,Le�n,ES,Spain
+LER,Lleida,ES,Spain
+LGS,Lagos,PT,Portugal
+LIN,Linares,ES,Spain
+LIO,Lisboa Oeste,PT,Portugal
+LIS,Lisboa,PT,Portugal
+LLO,False 5,ES,Spain
+LNG,Langreo,ES,Spain
+LNH,Lourinh�,PT,Portugal
+LOE,Loeches,ES,Spain
+LOR,Lorca,ES,Spain
+LPA,Las Palmas de Gran Canaria,ES,Spain
+LPE,Lepe,ES,Spain
+LUC,Lucena,ES,Spain
+LUG,Lugo,ES,Spain
+MAD,Madrid,ES,Spain
+MAL,M�laga,ES,Spain
+MAO,Mahon,ES,Spain
+MAS,Masnou,ES,Spain
+MAT,Matar�,ES,Spain
+MAZ,Mazarr�n,ES,Spain
+MBA,Marbella,ES,Spain
+MCD,Montcada,ES,Spain
+MDC,Medina del Campo,ES,Spain
+MEJ,Mejorada del Campo,ES,Spain
+MEL,Melilla,ES,Spain
+MER,Merida,ES,Spain
+MFR,Mafra,PT,Portugal
+MGP,Magaluf + Palma Nova,ES,Spain
+MJO,Montijo,PT,Portugal
+MLG,Malgrat de Mar - Santa Susanna,ES,Spain
+MLJ,Madrilejos,ES,Spain
+MLV,Malveira,PT,Portugal
+MMN,Montemor-o-Novo,PT,Portugal
+MNC,Manacor,ES,Spain
+MNR,Manresa,ES,Spain
+MNZ,Manzanares,ES,Spain
+MON,Montserrat,ES,Spain
+MOR,Moron de la Frontera,ES,Spain
+MOS,M�stoles - Alcorc�n,ES,Spain
+MOT,Motril,ES,Spain
+MRE,Mieres,ES,Spain
+MRT,Martos,ES,Spain
+MRX,Montcada i Reixach,ES,Spain
+MSE,Molina de Segura,ES,Spain
+MSP,Maspalomas,ES,Spain
+MTQ,Montequinto,ES,Spain
+MUR,Murcia,ES,Spain
+MZN,Monzon,ES,Spain
+NOM,Madrid Norte,ES,Spain
+NRJ,Nerja,ES,Spain
+NVA,Nueva Andalucia,ES,Spain
+NVL,Novelda,ES,Spain
+OBA,O Barco de Valdeorras,ES,Spain
+OCA,Oca�a,ES,Spain
+ODB,C�rdoba,ES,Spain
+ODO,Villaviciosa de Od�n,ES,Spain
+OLH,Olh�o,PT,Portugal
+OLI,Olias del Rey,ES,Spain
+OLV,Oliva,ES,Spain
+OND,Onda,ES,Spain
+OPE,Porto Leste,PT,Portugal
+OPO,Porto,PT,Portugal
+ORI,Orihuela,ES,Spain
+ORO,Oropesa del Mar,ES,Spain
+OUR,Ourense,ES,Spain
+OVD,Oviedo,ES,Spain
+PAL,Palma,ES,Spain
+PAS,Picasent -Alcacer - Silla,ES,Spain
+PCR,Puerto de la Cruz,ES,Spain
+PDA,Playa de Aro,ES,Spain
+PDL,Ponta Delgada,PT,Portugal
+PDR,Puerto del Rosario,ES,Spain
+PDS,Puerto de Sagunto,ES,Spain
+PET,Petrer,ES,Spain
+PGD,Praia Grande,PT,Portugal
+PHN,Pinhal Novo,PT,Portugal
+PIN,Parla - Pinto,ES,Spain
+PLA,Plasencia,ES,Spain
+PLC,Palencia,ES,Spain
+PLS,Pilas - Hinojos,ES,Spain
+PMB,Pombal,PT,Portugal
+PMV,Parets y Mollet de Valles,ES,Spain
+PNA,Pamplona,ES,Spain
+PNF,Penafiel,PT,Portugal
+PNI,Peniscola,ES,Spain
+PNT,Puenteareas,ES,Spain
+PON,Ponferrada,ES,Spain
+POR,Porrino,ES,Spain
+POT,Portim�o,PT,Portugal
+PRC,Paracuellos del Jarama,ES,Spain
+PRM,Puerto Rico - Mogan,ES,Spain
+PSL,Can Pastilla,ES,Spain
+PTA,Portalegre,PT,Portugal
+PTG,Puente Genil,ES,Spain
+PTS,Ponte de Sor,PT,Portugal
+PTV,Pontevedra,ES,Spain
+PUM,Punta Umbria,ES,Spain
+PVZ,P�voa de Varzim,PT,Portugal
+PYV,Los Palacios y Villafranca,ES,Spain
+QDC,Quinta do Conde,PT,Portugal
+QSA,Sabadell,ES,Spain
+QTR,Quarteira,PT,Portugal
+QUO,Quintanar de la Orden,ES,Spain
+RAR,Rivas - Arganda,ES,Spain
+REA,Puerto Real,ES,Spain
+REN,Renter�a,ES,Spain
+REQ,Requena,ES,Spain
+REU,Reus,ES,Spain
+REY,Molins de Rei - Sant Vicenç del horts,ES,Spain
+RGS,Burgos,ES,Spain
+RIV,Rincon de la Victoria,ES,Spain
+RJL,Logro�o,ES,Spain
+RMR,Rio Maior,PT,Portugal
+RON,Ronda,ES,Spain
+ROT,Rota,ES,Spain
+RQT,Roquetas de Mar,ES,Spain
+RVE,Riveira,ES,Spain
+SAB,San Antonio de Benageber,ES,Spain
+SAD,Martorell - Sant Andreu de la Barca,ES,Spain
+SAG,San Agustin de Guadalix,ES,Spain
+SBL,Sant Boi - El Prat de Llobregat,ES,Spain
+SBN,San Luis de Sabinillas,ES,Spain
+SCL,Sant Celoni,ES,Spain
+SCQ,Santiago de Compostela,ES,Spain
+SDA,Sada,ES,Spain
+SEG,Segovia,ES,Spain
+SET,Set�bal,PT,Portugal
+SEV,Sevilla,ES,Spain
+SGP,San Roque - Guadacorte - Palmones,ES,Spain
+SIG,Sitges,ES,Spain
+SIT,Sintra,PT,Portugal
+SJJ,Sanxenxo,ES,Spain
+SJM,S�o Jo�o da Madeira,PT,Portugal
+SLC,Sanl�car de Barrameda,ES,Spain
+SLM,Salamanca,ES,Spain
+SLO,Salou,ES,Spain
+SMF,Santa Maria da Feira,PT,Portugal
+SMV,San Mart�n de Valdeiglesias,ES,Spain
+SNE,Sierra Nevada,ES,Spain
+SNJ,San Javier,ES,Spain
+SNP,Santa Pola,ES,Spain
+SNS,Sonseca,ES,Spain
+SOM,Madrid Sur,ES,Spain
+SOR,Soria,ES,Spain
+SPP,San Pedro del Pinatar,ES,Spain
+SSB,Sesimbra,PT,Portugal
+STD,Santander,ES,Spain
+STP,Santa Pon�a,ES,Spain
+STR,Santar�m,PT,Portugal
+STS,Santo Tirso,PT,Portugal
+TBC,Torremolinos - Benalmadena - Churriana,ES,Spain
+TCC,Tres Cantos - Colmenar,ES,Spain
+TDC,Torre del Campo - Torredonjimeno,ES,Spain
+TDM,Torre del Mar,ES,Spain
+TEL,Telde,ES,Spain
+TER,Teruel,ES,Spain
+TFN,Tenerife,ES,Spain
+TGN,Tarragona,ES,Spain
+TLD,Toledo,ES,Spain
+TLV,Talavera,ES,Spain
+TMR,Tomar,PT,Portugal
+TNS,Entroncamento,PT,Portugal
+TOM,Tomelloso,ES,Spain
+TRA,Trapagaran,ES,Spain
+TRC,Tarancon,ES,Spain
+TRD,Torredembarra,ES,Spain
+TRF,Tarifa,ES,Spain
+TRJ,Torrevieja,ES,Spain
+TRL,Torrelavega,ES,Spain
+TRR,Torrente,ES,Spain
+TRS,Terrassa,ES,Spain
+TRT,Tortosa,ES,Spain
+TRV,Torres Vedras,PT,Portugal
+TUD,Tudela,ES,Spain
+TUI,Tuy,ES,Spain
+UBD,Ubeda,ES,Spain
+UBR,Ubrique,ES,Spain
+UER,Puertollano,ES,Spain
+ULT,ULT,ES,Spain
+URD,Castro Urdiales,ES,Spain
+UTE,Utebo,ES,Spain
+UTR,Utrera,ES,Spain
+UXO,Vall de uxo,ES,Spain
+VAC,Valdemoro + Ciempozuelos,ES,Spain
+VAL,Valencia,ES,Spain
+VCT,Viana do Castelo,PT,Portugal
+VDS,Villarejo de Salvanes,ES,Spain
+VEC,Vecindario,ES,Spain
+VEG,San Martin de la Vega,ES,Spain
+VEL,Velez-Malaga,ES,Spain
+VEN,El Vendrell,ES,Spain
+VFX,Vila Franca de Xira,PT,Portugal
+VIG,Vigo,ES,Spain
+VIK,Vic,ES,Spain
+VIL,Villareal,ES,Spain
+VIS,Viseu,PT,Portugal
+VIT,Vitoria,ES,Spain
+VJO,Villajoyosa,ES,Spain
+VLB,La Pobla de Vallbona,ES,Spain
+VLC,Vila do Conde,PT,Portugal
+VLD,Valdepenas,ES,Spain
+VLG,Vilanova i la Geltru,ES,Spain
+VLL,Valladolid,ES,Spain
+VLR,Vila Real,PT,Portugal
+VLS,Vilaseca,ES,Spain
+VNA,Villena,ES,Spain
+VND,Vendas Novas,PT,Portugal
+VNS,Villanueva de la Serena,ES,Spain
+VPE,Vilafranca del Penedes,ES,Spain
+VRA,Vila Real de Santo Ant�nio,PT,Portugal
+VRB,Villarobledo,ES,Spain
+XRY,Jerez de la Frontera,ES,Spain
+XTV,Xativa,ES,Spain
+YEC,Yecla,ES,Spain
+ZAF,Zafra,ES,Spain
+ZAR,Zaragoza,ES,Spain
+ZIZ,Zizur Mayor,ES,Spain
+ZMR,Zamora,ES,Spain
+ZUB,La Zubia,ES,Spain
