@@ -17,18 +17,9 @@ NEWSPIDER_MODULE = 'Drifter_Food.spiders'
 FEED_FORMAT = 'csv'
 FEED_EXPORT_ENCODING = 'utf-8-sig'
 
-PROXY_USERNAME = 'mikedrifter'
-PROXY_USER_PASS = 'b29358-c1963e-f0bd5e-d7db63-d0e632'
-PROXY_POOL = ["209.205.212.34:222",
-              "209.205.212.34:1200",
-              "209.205.212.34:1201",
-              "209.205.212.34:1202",
-              "209.205.212.34:1203",
-              "209.205.212.34:1204",
-              "209.205.212.34:1205",
-              "209.205.212.34:1206",
-              "209.205.212.34:1207",
-              "209.205.212.34:1208"]
+PROXY_USERNAME = "cred"
+PROXY_USER_PASS = "cred"
+PROXY_POOL = ["proxies"]
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
